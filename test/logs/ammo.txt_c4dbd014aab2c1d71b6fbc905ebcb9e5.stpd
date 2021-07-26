@@ -1,0 +1,2970 @@
+365 0 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 934 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 1766 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 2522 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 3221 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 3874 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 4488 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 5071 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 5626 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 6156 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 6666 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 7157 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 7631 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 8090 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 8535 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 8968 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 9388 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 9798 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 10198 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 10589 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 10971 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 11345 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 11712 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 12071 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 12423 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 12769 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 13109 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 13444 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 13772 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 14096 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 14415 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 14729 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 15038 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 15343 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 15644 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 15941 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 16234 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 16523 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 16809 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 17091 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 17370 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 17646 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 17918 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 18188 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 18455 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 18719 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 18980 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 19239 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 19495 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 19748 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 20000 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 20248 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 20495 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 20739 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 20981 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 21222 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 21460 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 21696 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 21930 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 22162 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 22392 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 22621 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 22847 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 23072 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 23296 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 23517 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 23738 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 23956 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 24173 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 24388 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 24602 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 24815 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 25026 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 25235 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 25444 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 25651 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 25856 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 26061 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 26264 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 26466 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 26666 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 26866 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 27064 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 27261 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 27457 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 27652 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 27845 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28038 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28230 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28420 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28610 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28798 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 28985 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 29172 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 29358 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 29542 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 29726 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 29908 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30090 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30271 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30451 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30630 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30809 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 30986 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 31163 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 31339 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 31514 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 31688 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 31861 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32034 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32206 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32377 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32547 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32717 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 32886 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33054 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33222 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33388 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33554 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33720 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 33885 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34049 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34212 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34375 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34537 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34698 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 34859 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35019 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35179 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35338 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35497 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35654 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35812 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 35968 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36124 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36280 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36435 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36589 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36743 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 36896 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37049 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37201 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37353 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37504 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37655 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37805 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 37955 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38104 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38253 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38401 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38548 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38696 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38842 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 38989 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39134 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39280 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39425 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39569 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39713 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 39856 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40000 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40142 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40284 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40426 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40567 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40708 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40849 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 40989 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41129 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41268 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41407 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41545 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41683 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41821 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 41958 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42095 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42232 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42368 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42504 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42639 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42774 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 42909 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43043 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43177 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43311 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43444 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43577 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43709 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43841 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 43973 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44105 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44236 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44367 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44497 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44627 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44757 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 44886 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45016 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45144 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45273 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45401 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45529 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45657 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45784 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 45911 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46037 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46164 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46290 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46416 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46541 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46666 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46791 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 46916 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47040 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47164 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47288 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47411 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47534 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47657 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47780 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 47902 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48024 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48146 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48267 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48388 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48509 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48630 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48750 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48871 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 48991 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49110 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49230 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49349 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49468 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49586 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49705 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49823 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 49941 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50058 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50176 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50293 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50410 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50526 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50643 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50759 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50875 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 50991 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51106 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51222 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51337 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51451 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51566 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51680 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51795 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 51909 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52022 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52136 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52249 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52362 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52475 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52587 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52700 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52812 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 52924 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53036 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53147 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53259 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53370 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53481 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53592 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53702 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53812 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 53923 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54032 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54142 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54252 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54361 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54470 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54579 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54688 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54796 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 54905 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55013 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55121 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55229 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55336 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55444 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55551 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55658 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55765 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55872 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 55978 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56085 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56191 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56297 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56402 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56508 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56614 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56719 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56824 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 56929 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57034 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57138 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57242 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57347 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57451 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57555 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57658 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57762 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57865 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 57969 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58072 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58175 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58277 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58380 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58482 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58584 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58687 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58789 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58890 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 58992 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59093 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59195 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59296 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59397 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59498 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59598 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59699 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59799 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}
+365 59899 
+POST /event HTTP/1.0
+Content-Length: 213
+Host: host.docker.internal:8081
+User-Agent: Tank
+Connection: keep-alive
+Content-Type: application/json
+
+{"client_time":"2020-12-01 23:59:00","device_id":"0287D9AA-4ADF-4B37-A60F-3E9E645C821E","device_os":"iOS 13.5.1","session":"ybuRi8mAUypxjbxQ","sequence":1,"event":"app_start","param_int":0,"param_str":"some text"}

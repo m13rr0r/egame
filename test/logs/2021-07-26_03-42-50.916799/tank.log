@@ -1,0 +1,1339 @@
+2021-07-26 03:42:50,975 [INFO] root consoleworker.py:434	Log file created
+2021-07-26 03:42:50,976 [INFO] root consoleworker.py:438	Logging handler <logging.FileHandler object at 0x7f02bdcb0c10> added
+2021-07-26 03:42:50,976 [INFO] root consoleworker.py:438	Logging handler <logging.StreamHandler object at 0x7f02bdcf8850> added
+2021-07-26 03:42:50,976 [INFO] root consoleworker.py:438	Logging handler <logging.StreamHandler object at 0x7f02bdc9ca50> added
+2021-07-26 03:42:50,976 [INFO] root consoleworker.py:373	Created a folder for the test. /var/loadtest/logs/2021-07-26_03-42-50.916799
+2021-07-26 03:42:50,977 [INFO] yandextank.core.tankcore tankcore.py:237	Configuring plugins...
+2021-07-26 03:42:50,977 [INFO] yandextank.core.tankcore tankcore.py:190	Loading plugins...
+2021-07-26 03:42:50,977 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin phantom from yandextank.plugins.Phantom
+2021-07-26 03:42:50,978 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin rcheck from yandextank.plugins.ResourceCheck
+2021-07-26 03:42:50,978 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin json_report from yandextank.plugins.JsonReport
+2021-07-26 03:42:50,981 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin overload from yandextank.plugins.DataUploader
+2021-07-26 03:42:50,982 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin rcassert from yandextank.plugins.RCAssert
+2021-07-26 03:42:50,982 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin console from yandextank.plugins.Console
+2021-07-26 03:42:50,982 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin shellexec from yandextank.plugins.ShellExec
+2021-07-26 03:42:50,982 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin autostop from yandextank.plugins.Autostop
+2021-07-26 03:42:50,983 [DEBUG] yandextank.core.tankcore tankcore.py:212	Plugin instances: {'plugin_phantom': <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>, 'plugin_autostop': <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>, 'plugin_shellexec': <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>, 'plugin_console': <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>, 'plugin_rcassert': <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>, 'plugin_rcheck': <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>, 'plugin_overload': <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>, 'plugin_json_report': <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>}
+2021-07-26 03:42:50,983 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:50,983 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Autostop.plugin.Plugin'>
+2021-07-26 03:42:50,987 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log
+2021-07-26 03:42:50,990 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log
+2021-07-26 03:42:50,990 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log
+2021-07-26 03:42:50,992 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log
+2021-07-26 03:42:50,992 [DEBUG] yandextank.common.util util.py:479	Trying to resolve address string: host.docker.internal:8081
+2021-07-26 03:42:50,993 [DEBUG] yandextank.common.util util.py:516	Parsing port
+2021-07-26 03:42:50,995 [DEBUG] yandextank.common.util util.py:527	Lookup result: [(2, 1, 6, '', ('192.168.65.2', 8081)), (2, 2, 17, '', ('192.168.65.2', 8081)), (2, 3, 0, '', ('192.168.65.2', 8081))]
+2021-07-26 03:42:50,996 [INFO] yandextank.common.util util.py:546	Testing connection to resolved address 192.168.65.2 and port 8081
+2021-07-26 03:42:50,998 [INFO] yandextank.plugins.Phantom.utils utils.py:278	Resolved host.docker.internal into 192.168.65.2:8081
+2021-07-26 03:42:50,998 [INFO] yandextank.stepper.main main.py:161	Configuring StepperWrapper...
+2021-07-26 03:42:50,999 [DEBUG] yandextank.stepper.main main.py:140	Option ammofile = /var/loadtest/ammo.txt
+2021-07-26 03:42:50,999 [DEBUG] yandextank.stepper.main main.py:140	Option ammo_type = uripost
+2021-07-26 03:42:50,999 [DEBUG] yandextank.stepper.main main.py:140	Option loop = -1
+2021-07-26 03:42:51,000 [DEBUG] yandextank.stepper.main main.py:140	Option ammo_limit = -1
+2021-07-26 03:42:51,000 [DEBUG] yandextank.stepper.main main.py:140	Option load_profile = {'load_type': 'rps', 'schedule': 'line(1, 10, 1m)'}
+2021-07-26 03:42:51,000 [DEBUG] yandextank.stepper.main main.py:140	Option instances = 1000
+2021-07-26 03:42:51,000 [DEBUG] yandextank.stepper.main main.py:140	Option uris = []
+2021-07-26 03:42:51,000 [DEBUG] yandextank.stepper.main main.py:140	Option headers = []
+2021-07-26 03:42:51,001 [DEBUG] yandextank.stepper.main main.py:140	Option header_http = 1.0
+2021-07-26 03:42:51,001 [DEBUG] yandextank.stepper.main main.py:140	Option autocases = 0
+2021-07-26 03:42:51,001 [DEBUG] yandextank.stepper.main main.py:140	Option enum_ammo = False
+2021-07-26 03:42:51,001 [DEBUG] yandextank.stepper.main main.py:140	Option use_caching = True
+2021-07-26 03:42:51,001 [DEBUG] yandextank.stepper.main main.py:140	Option file_cache = 8192
+2021-07-26 03:42:51,002 [DEBUG] yandextank.stepper.main main.py:140	Option cache_dir = None
+2021-07-26 03:42:51,002 [DEBUG] yandextank.stepper.main main.py:140	Option force_stepping = 0
+2021-07-26 03:42:51,002 [DEBUG] yandextank.stepper.main main.py:140	Option load_profile = {'load_type': 'rps', 'schedule': 'line(1, 10, 1m)'}
+2021-07-26 03:42:51,002 [DEBUG] yandextank.stepper.main main.py:140	Option chosen_cases = 
+2021-07-26 03:42:51,005 [DEBUG] yandextank.stepper.main main.py:269	stpd-hash source: cache version 6|line(1, 10, 1m)|-1|-1|line(1, 10, 1m)|0|||1.0||False|uripost|/var/loadtest/ammo.txt;33279;2251799814191792;45;1;0;0;337;1627270966.86
+2021-07-26 03:42:51,005 [DEBUG] yandextank.stepper.main main.py:278	Generated cache file name: /var/loadtest/logs/ammo.txt_a66f9526c5c9119d5228e16748c31410.stpd
+2021-07-26 03:42:51,005 [INFO] yandextank.stepper.main main.py:300	Making stpd-file: /var/loadtest/logs/ammo.txt_a66f9526c5c9119d5228e16748c31410.stpd
+2021-07-26 03:42:51,006 [DEBUG] yandextank.stepper.info info.py:43	Published 1000 to instances
+2021-07-26 03:42:51,006 [DEBUG] yandextank.stepper.info info.py:43	Published ['line(1, 10, 1m)'] to loadscheme
+2021-07-26 03:42:51,007 [DEBUG] yandextank.stepper.info info.py:43	Published 60 to duration
+2021-07-26 03:42:51,007 [DEBUG] yandextank.stepper.info info.py:43	Published [(1.0, 4), (2.0, 6), (3.0, 7), (4.0, 7), (5.0, 6), (6.0, 7), (7.0, 7), (8.0, 6), (9.0, 7), (10.0, 4)] to steps
+2021-07-26 03:42:51,007 [INFO] yandextank.stepper.missile missile.py:310	Loading ammo from '/var/loadtest/ammo.txt' using URI+POST format
+2021-07-26 03:42:51,007 [INFO] yandextank.stepper.config config.py:123	Using UriPostReader ammo reader
+2021-07-26 03:42:51,011 [DEBUG] netort.resource resource.py:134	Resource /var/loadtest/ammo.txt format detected: None.
+2021-07-26 03:42:51,012 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,013 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,014 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,014 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,015 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,015 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,016 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,017 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,017 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,018 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,019 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,019 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,020 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,021 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,022 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,022 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,023 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,024 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,025 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,026 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,026 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,027 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,028 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,028 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,029 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,029 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,030 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,031 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,031 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,032 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,033 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,033 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,034 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,034 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,035 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,036 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,036 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,037 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,037 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,038 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,039 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,040 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,040 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,041 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,042 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,042 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,043 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,043 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,044 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,045 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,045 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,046 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,047 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,047 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,048 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,048 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,049 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,050 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,050 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,051 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,051 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,052 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,053 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,054 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,054 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,055 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,056 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,057 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,058 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,058 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,059 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,059 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,060 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,061 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,061 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,062 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,063 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,063 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,064 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,064 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,065 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,066 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,067 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,068 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,068 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,069 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,070 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,070 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,071 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,072 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,073 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,073 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,074 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,074 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,075 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,076 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,076 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,077 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,077 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,078 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,078 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,079 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,080 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,080 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,081 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,081 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,082 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,083 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,083 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,084 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,085 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,085 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,086 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,087 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,088 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,089 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,089 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,090 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,090 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,091 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,092 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,092 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,093 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,093 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,094 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,095 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,096 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,096 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,097 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,097 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,098 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,099 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,100 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,100 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,101 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,101 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,102 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,103 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,103 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,104 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,105 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,105 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,106 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,107 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,107 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,108 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,108 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,109 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,110 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,110 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,111 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,111 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,112 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,112 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,113 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,114 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,114 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,115 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,116 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,117 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,117 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,118 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,119 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,119 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,120 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,121 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,121 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,122 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,123 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,123 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,124 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,125 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,125 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,126 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,126 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,127 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,128 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,129 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,129 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,130 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,131 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,131 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,132 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,133 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,134 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,134 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,135 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,135 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,136 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,137 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,137 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,138 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,138 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,139 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,140 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,140 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,141 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,142 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,142 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,143 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,143 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,144 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,145 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,145 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,146 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,147 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,147 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,148 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,149 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,150 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,150 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,151 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,152 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,152 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,153 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,153 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,154 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,155 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,155 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,156 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,157 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,157 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,158 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,158 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,159 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,160 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,160 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,161 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,162 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,163 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,163 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,164 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,165 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,165 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,166 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,167 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,167 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,168 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,169 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,169 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,170 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,170 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,171 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,172 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,172 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,173 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,174 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,174 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,175 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,176 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,176 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,177 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,178 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,178 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,179 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,180 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,180 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,181 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,182 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,182 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,183 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,184 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,184 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,185 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,186 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,186 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,187 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,187 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,188 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,188 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,189 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,190 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,190 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,191 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,192 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,192 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,193 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,193 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,194 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,194 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,195 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,196 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,196 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,197 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,197 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,198 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,199 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,199 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,200 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,201 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,201 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,202 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,203 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,203 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,204 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,204 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,205 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,206 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,206 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,207 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,208 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,208 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,209 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,210 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,210 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,211 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,212 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,213 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,213 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,214 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,215 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,215 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,216 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,217 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,217 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,218 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,218 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,219 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,220 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,220 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,221 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,222 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,222 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,223 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,224 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,224 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,225 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,226 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,226 [DEBUG] yandextank.stepper.missile missile.py:362	Reached the end of ammo file. Starting over.
+2021-07-26 03:42:51,228 [DEBUG] yandextank.stepper.main main.py:294	Saving stepper info: /var/loadtest/logs/ammo.txt_a66f9526c5c9119d5228e16748c31410.stpd_si.json
+2021-07-26 03:42:51,233 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf
+2021-07-26 03:42:51,234 [DEBUG] yandextank.plugins.Phantom.utils utils.py:128	Generating phantom config: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf
+2021-07-26 03:42:51,236 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:51,237 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.common.interfaces.GeneratorPlugin'>
+2021-07-26 03:42:51,237 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:51,237 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:51,238 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:51,238 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:51,239 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:51,240 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:51,240 [INFO] yandextank.core.tankcore tankcore.py:249	Preparing test...
+2021-07-26 03:42:51,240 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:51,241 [DEBUG] netort.process process.py:23	Starting: ['phantom', 'check', '/var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf']
+2021-07-26 03:42:51,607 [DEBUG] netort.process process.py:46	Process output:
+setup_t module_setup = setup_module_t {
+  dir = "/usr/lib/phantom"
+  list = {
+    io_monitor
+    io_benchmark
+    io_benchmark_method_stream
+    io_benchmark_method_stream_ipv4
+    io_benchmark_method_stream_ipv6
+    io_benchmark_method_stream_source_log
+    io_benchmark_method_stream_proto_none
+    io_benchmark_method_stream_proto_http
+  }
+}
+setup_t stat_setup = setup_stat_t {
+  list = {
+    default
+  }
+}
+scheduler_t main_scheduler = scheduler_simple_t {
+  threads = 5
+  limit = unlimited
+  event_buf_size = 20
+  timeout_prec = 001
+  tname = ""
+  policy = other
+  priority = 0
+}
+logger_t phantom_logger = logger_file_t {
+  level = info
+  filename = "/var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log"
+  check_interval = 1s
+  scheduler = main_scheduler
+}
+logger = phantom_logger
+io_t benchmark_io = io_benchmark_t {
+  instances = 1000
+  method_t stream_method = method_stream_ipv4_t {
+    address = 192.168.65.2
+    port = 8081
+    bind = {
+    }
+    cork = true
+    timeout = 11s
+    ibuf_size = 4K
+    obuf_size = 1K
+    source_t source_log = source_log_t {
+      filename = "/var/loadtest/logs/ammo.txt_a66f9526c5c9119d5228e16748c31410.stpd"
+      ibuf_size = 1M
+    }
+    source = source_log
+    transport = NULL
+    proto_t http_proto0 = proto_http_t {
+      reply_limits = {
+        line = 1K
+        field_num = 128
+        field = 8K
+        entity = 8M
+      }
+    }
+    proto_t none_proto = proto_none_t {
+    }
+    proto = http_proto0
+    logger_t benchmark_logger = logger_default_t {
+      filename = "/var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log"
+      check_interval = 1s
+      scheduler = main_scheduler
+      level = all
+    }
+    logger_t brief_logger = logger_brief_t {
+      time_format = unix
+      filename = "/var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log"
+      check_interval = 1s
+      scheduler = main_scheduler
+      level = all
+    }
+    loggers = {
+      brief_logger
+    }
+  }
+  method = stream_method
+  times_t simple_times = times_simple_t {
+    max = 11s
+    min = 001
+    steps = 20
+  }
+  times = simple_times
+  scheduler = main_scheduler
+}
+io_t monitor_io = io_monitor_t {
+  clear = true
+  period = 1s
+  list = {
+    main_scheduler
+    benchmark_io
+  }
+  stat_id = default
+  filename = "/var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log"
+  check_interval = 1s
+  scheduler = main_scheduler
+}
+
+2021-07-26 03:42:51,608 [DEBUG] netort.process process.py:48	Process exit code: 0
+2021-07-26 03:42:51,608 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:116	Linking sample reader to aggregator. Reading samples from /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log
+2021-07-26 03:42:51,609 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:120	Linking stats reader to aggregator. Reading stats from /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log
+2021-07-26 03:42:51,609 [DEBUG] yandextank.plugins.Phantom.utils utils.py:158	Steps: [(1.0, 4), (2.0, 6), (3.0, 7), (4.0, 7), (5.0, 6), (6.0, 7), (7.0, 7), (8.0, 6), (9.0, 7), (10.0, 4)]
+2021-07-26 03:42:51,609 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2021-07-26 03:42:51,610 [DEBUG] yandextank.plugins.Phantom.utils utils.py:158	Steps: [(1.0, 4), (2.0, 6), (3.0, 7), (4.0, 7), (5.0, 6), (6.0, 7), (7.0, 7), (8.0, 6), (9.0, 7), (10.0, 4)]
+2021-07-26 03:42:51,610 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:51,610 [DEBUG] yandextank.common.interfaces plugin.py:78	Criterion objects: {}
+2021-07-26 03:42:51,611 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2021-07-26 03:42:51,611 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:51,611 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:51,612 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:51,612 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:51,612 [INFO] yandextank.common.interfaces plugin.py:39	Checking tank resources...
+2021-07-26 03:42:51,613 [DEBUG] netort.process process.py:23	Starting: sh -c "df --no-sync -m -P -l -x fuse -x tmpfs -x devtmpfs -x davfs -x nfs /var/loadtest/logs | tail -n 1 | awk '{print \$4}' "
+2021-07-26 03:42:51,978 [ERROR] netort.process process.py:43	There were errors:
+df: no file systems processed
+
+2021-07-26 03:42:51,979 [DEBUG] netort.process process.py:48	Process exit code: 0
+2021-07-26 03:42:51,980 [DEBUG] root plugin.py:58	Result: (0, '', 'df: no file systems processed\n')
+2021-07-26 03:42:51,980 [DEBUG] yandextank.common.interfaces plugin.py:60	No disk usage info: df: no file systems processed
+
+2021-07-26 03:42:51,980 [DEBUG] yandextank.common.interfaces plugin.py:75	Memory free: 10283/512
+2021-07-26 03:42:51,981 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:51,981 [INFO] root plugin.py:523	Using OVERLOAD backend
+2021-07-26 03:42:51,982 [DEBUG] yandextank.plugins.DataUploader.plugin plugin.py:618	Trying to read token from token.txt
+2021-07-26 03:42:51,999 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:624	Read authentication token from token.txt, token length is 32 bytes
+2021-07-26 03:42:52,008 [INFO] yandextank.plugins.DataUploader.client client.py:59	Proxy not set
+2021-07-26 03:42:52,009 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:647	Detected target: host.docker.internal
+2021-07-26 03:42:52,014 [DEBUG] yandextank.plugins.DataUploader.client client.py:336	Job create request: {'person': 'root', 'host': 'host.docker.internal', 'task': '', 'tank': '81fa1c9ac344', 'notify': [], 'loadscheme': ['line(1, 10, 1m)'], 'detailed_time': None, 'port': 8081}
+2021-07-26 03:42:52,016 [DEBUG] urllib3.connectionpool connectionpool.py:813	Starting new HTTPS connection (1): overload.yandex.net:443
+2021-07-26 03:42:52,178 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/create.json?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 None
+2021-07-26 03:42:52,179 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:789	Job created: 446523
+2021-07-26 03:42:52,179 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2021-07-26 03:42:52,202 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinitial.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:52,203 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:485	Locking targets: ['host.docker.internal']
+2021-07-26 03:42:52,204 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:487	Locked targets: ['host.docker.internal']
+2021-07-26 03:42:52,239 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/job_no: 446523
+2021-07-26 03:42:52,240 [DEBUG] urllib3.connectionpool connectionpool.py:240	Resetting dropped connection: overload.yandex.net
+2021-07-26 03:42:52,355 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/edit.json?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 19
+2021-07-26 03:42:52,357 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2021-07-26 03:42:52,358 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2021-07-26 03:42:52,452 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinitial.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:52,454 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2021-07-26 03:42:52,458 [DEBUG] urllib3.connectionpool connectionpool.py:240	Resetting dropped connection: overload.yandex.net
+2021-07-26 03:42:52,572 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinfo.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:52,574 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:52,574 [INFO] yandextank.core.tankcore tankcore.py:259	Starting test...
+2021-07-26 03:42:52,580 [DEBUG] yandextank.plugins.Phantom.utils utils.py:158	Steps: [(1.0, 4), (2.0, 6), (3.0, 7), (4.0, 7), (5.0, 6), (6.0, 7), (7.0, 7), (8.0, 6), (9.0, 7), (10.0, 4)]
+2021-07-26 03:42:52,581 [INFO] yandextank.aggregator.tank_aggregator tank_aggregator.py:63	using verbose histogram
+2021-07-26 03:42:52,587 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:52,588 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:144	Starting phantom with arguments: ['phantom', 'run', '/var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf']
+2021-07-26 03:42:52,596 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stdout_stderr_i3ncVA.log
+2021-07-26 03:42:52,970 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290> required 0.382577 seconds to start
+2021-07-26 03:42:52,971 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:52,971 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650> required 0.000014 seconds to start
+2021-07-26 03:42:52,972 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:52,974 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150> required 0.000009 seconds to start
+2021-07-26 03:42:52,974 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:52,974 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710> required 0.000003 seconds to start
+2021-07-26 03:42:52,975 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:52,975 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790> required 0.000004 seconds to start
+2021-07-26 03:42:52,975 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:52,975 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110> required 0.000002 seconds to start
+2021-07-26 03:42:52,976 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:52,976 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:394	Status sender thread started
+2021-07-26 03:42:52,977 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:413	Data Uploader thread started
+2021-07-26 03:42:52,977 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:413	Monitoring Uploader thread started
+2021-07-26 03:42:52,978 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:298	Web link: https://overload.yandex.net/446523
+2021-07-26 03:42:52,980 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/jobno: 446523
+2021-07-26 03:42:52,980 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/web_link: https://overload.yandex.net/446523
+2021-07-26 03:42:52,980 [DEBUG] yandextank.plugins.DataUploader.plugin plugin.py:305	Saving jobno to: jobno_file.txt
+2021-07-26 03:42:52,984 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): jobno_file.txt
+2021-07-26 03:42:52,984 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2021-07-26 03:42:53,067 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinitial.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:53,068 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2021-07-26 03:42:53,070 [DEBUG] urllib3.connectionpool connectionpool.py:240	Resetting dropped connection: overload.yandex.net
+2021-07-26 03:42:53,164 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinfo.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:53,165 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0> required 0.188660 seconds to start
+2021-07-26 03:42:53,165 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:53,166 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10> required 0.000005 seconds to start
+2021-07-26 03:42:53,167 [INFO] yandextank.core.tankcore tankcore.py:274	Waiting for test to finish...
+2021-07-26 03:42:53,167 [INFO] yandextank.core.tankcore tankcore.py:275	Artifacts dir: /var/loadtest/logs/2021-07-26_03-42-50.916799
+2021-07-26 03:42:53,168 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:53,169 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:53,169 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:53,170 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 59
+2021-07-26 03:42:53,170 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:53,170 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:53,171 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:53,172 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:53,172 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:53,172 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:53,173 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:53,173 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:53,174 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:53,174 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:53,175 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:53,175 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:53,176 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:53,176 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:53,177 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:53,177 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:53,178 [DEBUG] netort.process process.py:23	Starting: sh -c "df --no-sync -m -P -l -x fuse -x tmpfs -x devtmpfs -x davfs -x nfs /var/loadtest/logs | tail -n 1 | awk '{print \$4}' "
+2021-07-26 03:42:53,554 [ERROR] netort.process process.py:43	There were errors:
+df: no file systems processed
+
+2021-07-26 03:42:53,555 [DEBUG] netort.process process.py:48	Process exit code: 0
+2021-07-26 03:42:53,556 [DEBUG] root plugin.py:58	Result: (0, '', 'df: no file systems processed\n')
+2021-07-26 03:42:53,556 [DEBUG] yandextank.common.interfaces plugin.py:60	No disk usage info: df: no file systems processed
+
+2021-07-26 03:42:53,556 [DEBUG] yandextank.common.interfaces plugin.py:75	Memory free: 9601/512
+2021-07-26 03:42:53,557 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:53,557 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:53,557 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.389006853104
+2021-07-26 03:42:53,558 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 59, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:53,610 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 21.28ms
+2021-07-26 03:42:53,669 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:53,670 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:53,670 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:53,670 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 59
+2021-07-26 03:42:53,671 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:53,671 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:53,671 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:53,671 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:53,672 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:53,672 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:53,672 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:53,672 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:53,673 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:53,673 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:53,673 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:53,674 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:53,674 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:53,674 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:53,675 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:53,675 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:53,675 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:53,676 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:53,676 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.00658893585205
+2021-07-26 03:42:53,676 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 59, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:54,170 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:54,171 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:54,171 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:54,171 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 58
+2021-07-26 03:42:54,172 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:54,172 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:54,172 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:54,173 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:54,173 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:54,173 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:54,173 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:54,174 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:54,174 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:54,174 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:54,174 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:54,175 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:54,175 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:54,176 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:54,176 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:54,176 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:54,177 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:54,177 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:54,177 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.00696206092834
+2021-07-26 03:42:54,177 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 58, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:54,624 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 6.44ms
+2021-07-26 03:42:54,671 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:54,672 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:54,672 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:54,673 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 58
+2021-07-26 03:42:54,673 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:54,673 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:54,674 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:54,674 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:54,674 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:54,674 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:54,675 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:54,675 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:54,675 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:54,675 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:54,675 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:54,676 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:54,677 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:54,677 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:54,677 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:54,677 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:54,678 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:54,678 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:54,678 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.00654602050781
+2021-07-26 03:42:54,678 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 58, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:55,173 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:55,173 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:55,174 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:55,174 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 57
+2021-07-26 03:42:55,174 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:55,175 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:55,175 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:55,176 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:55,176 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:55,176 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:55,177 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:55,177 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:55,178 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:55,178 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:55,178 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:55,179 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:55,180 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:55,181 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:55,181 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:55,182 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:55,183 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:55,183 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:55,184 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0110981464386
+2021-07-26 03:42:55,184 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 57, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:55,636 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 6.34ms
+2021-07-26 03:42:55,674 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:55,674 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270972]
+2021-07-26 03:42:55,675 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:55,675 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 57
+2021-07-26 03:42:55,675 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:55,676 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:55,676 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:55,676 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:55,677 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:55,677 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:55,677 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:55,677 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:55,678 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:55,678 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:55,678 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:55,679 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:55,679 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:55,679 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:55,680 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:55,680 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:55,680 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:55,680 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:55,681 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.00665998458862
+2021-07-26 03:42:55,681 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 57, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:56,175 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:56,176 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:56,176 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:56,176 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 56
+2021-07-26 03:42:56,176 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:56,177 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:56,177 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:56,177 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:56,177 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:56,178 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:56,178 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:56,178 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:56,178 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:56,179 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:56,179 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:56,180 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:56,180 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:56,180 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:56,180 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:56,181 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:56,181 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:56,181 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:56,182 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.00672507286072
+2021-07-26 03:42:56,182 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 56, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:56,653 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 11.68ms
+2021-07-26 03:42:56,666 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 7.47ms
+2021-07-26 03:42:56,676 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270973]
+2021-07-26 03:42:56,677 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270973]
+2021-07-26 03:42:56,678 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 2/
+2021-07-26 03:42:56,678 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:56,679 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 56
+2021-07-26 03:42:56,679 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:56,680 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:56,680 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:56,680 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:56,681 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:56,681 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:56,681 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:56,682 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:56,682 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:56,682 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:56,682 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:56,686 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:56,687 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:56,687 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:56,687 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:56,687 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:56,688 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:56,688 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:56,688 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.012246131897
+2021-07-26 03:42:56,689 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 56, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:56,730 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:56,732 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:42:57,177 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:57,177 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:57,178 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:57,178 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 55
+2021-07-26 03:42:57,179 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:57,179 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:57,179 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:57,180 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:57,180 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:57,181 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:57,181 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:57,182 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:57,182 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:57,182 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:57,183 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:57,189 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:57,189 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:57,190 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:57,190 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:57,191 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:57,191 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:57,192 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:57,192 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0155820846558
+2021-07-26 03:42:57,193 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 55, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:57,681 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:57,682 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 12.82ms
+2021-07-26 03:42:57,683 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270974]
+2021-07-26 03:42:57,688 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:57,691 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 55
+2021-07-26 03:42:57,691 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:57,692 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:57,693 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:57,696 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:57,702 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:57,704 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:57,707 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:57,708 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:57,712 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:57,712 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:57,713 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 11.36ms
+2021-07-26 03:42:57,713 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:57,716 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:57,716 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:57,717 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:57,717 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:57,717 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:57,717 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:57,718 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:57,718 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0367970466614
+2021-07-26 03:42:57,718 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 55, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:58,182 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270974]
+2021-07-26 03:42:58,183 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:58,184 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 3/
+2021-07-26 03:42:58,185 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:58,185 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 54
+2021-07-26 03:42:58,186 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:58,186 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:58,186 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:58,186 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:58,187 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:58,187 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:58,187 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:58,187 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:58,188 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:58,188 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:58,188 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:58,192 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:58,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:58,193 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:58,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:58,194 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:58,194 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:58,194 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:58,194 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0124020576477
+2021-07-26 03:42:58,195 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 54, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:58,231 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:58,232 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:42:58,683 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:58,684 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270975]
+2021-07-26 03:42:58,684 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:58,684 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 54
+2021-07-26 03:42:58,685 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:58,685 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:58,685 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:58,685 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:58,686 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:58,686 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:58,686 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:58,686 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:58,687 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:58,687 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:58,687 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:58,691 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:58,692 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:58,692 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:58,692 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:58,693 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:58,693 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:58,693 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:58,693 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0104739665985
+2021-07-26 03:42:58,694 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 54, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:58,722 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 6.75ms
+2021-07-26 03:42:58,729 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 3.75ms
+2021-07-26 03:42:59,184 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270975]
+2021-07-26 03:42:59,185 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:42:59,186 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 4/
+2021-07-26 03:42:59,187 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:59,187 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 53
+2021-07-26 03:42:59,187 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:59,188 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:59,188 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:59,188 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:59,189 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:59,189 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:59,189 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:59,189 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:59,189 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:59,190 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:59,190 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:59,195 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:59,195 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:59,195 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:59,196 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:59,196 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:59,196 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:59,197 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:59,197 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0130047798157
+2021-07-26 03:42:59,197 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 53, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:59,239 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:42:59,240 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:42:59,685 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:42:59,686 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270976]
+2021-07-26 03:42:59,686 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:42:59,687 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 53
+2021-07-26 03:42:59,687 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:42:59,687 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:42:59,688 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:42:59,688 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:42:59,689 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:42:59,689 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:42:59,689 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:42:59,690 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:42:59,690 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:42:59,691 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:42:59,691 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:42:59,700 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:42:59,700 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:42:59,701 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:42:59,701 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:42:59,702 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:42:59,702 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:42:59,703 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:42:59,703 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0178301334381
+2021-07-26 03:42:59,703 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 53, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:42:59,745 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 12.87ms
+2021-07-26 03:42:59,752 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 3.78ms
+2021-07-26 03:43:00,186 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270976]
+2021-07-26 03:43:00,187 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:43:00,191 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 6/
+2021-07-26 03:43:00,191 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:00,192 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 52
+2021-07-26 03:43:00,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:00,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:00,194 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:00,195 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:00,195 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:00,196 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:00,196 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:00,197 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:00,198 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:00,198 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:00,199 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:00,222 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:00,223 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:00,223 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:00,223 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:00,224 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:00,224 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:00,224 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:00,224 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.038134098053
+2021-07-26 03:43:00,225 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 52, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:00,249 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:00,250 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:43:00,687 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:43:00,688 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270977]
+2021-07-26 03:43:00,689 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:00,689 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 52
+2021-07-26 03:43:00,690 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:00,690 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:00,691 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:00,691 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:00,692 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:00,692 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:00,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:00,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:00,694 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:00,694 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:00,694 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:00,710 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:00,711 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:00,711 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:00,712 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:00,713 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:00,713 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:00,714 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:00,714 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0270979404449
+2021-07-26 03:43:00,715 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 52, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:00,763 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 7.78ms
+2021-07-26 03:43:00,770 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 3.87ms
+2021-07-26 03:43:01,189 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270977]
+2021-07-26 03:43:01,189 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:43:01,192 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 7/
+2021-07-26 03:43:01,192 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:01,192 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 51
+2021-07-26 03:43:01,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:01,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:01,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:01,193 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:01,194 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:01,194 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:01,194 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:01,194 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:01,195 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:01,195 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:01,195 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:01,205 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:01,205 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:01,205 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:01,206 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:01,206 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:01,207 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:01,207 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:01,208 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0185639858246
+2021-07-26 03:43:01,208 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 51, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:01,260 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:01,261 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:43:01,690 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:43:01,690 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270978]
+2021-07-26 03:43:01,691 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:01,691 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 51
+2021-07-26 03:43:01,691 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:01,691 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:01,692 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:01,692 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:01,692 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:01,692 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:01,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:01,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:01,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:01,693 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:01,693 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:01,700 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:01,700 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:01,701 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:01,701 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:01,701 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:01,702 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:01,702 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:01,702 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.012659072876
+2021-07-26 03:43:01,703 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 51, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:01,783 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 10.83ms
+2021-07-26 03:43:01,791 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 4.37ms
+2021-07-26 03:43:02,191 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270978]
+2021-07-26 03:43:02,191 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:43:02,193 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 9/
+2021-07-26 03:43:02,193 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:02,194 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 50
+2021-07-26 03:43:02,195 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:02,195 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:02,196 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:02,196 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:02,197 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:02,197 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:02,197 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:02,198 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:02,198 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:02,199 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:02,199 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:02,208 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:02,209 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:02,209 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:02,209 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:02,210 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:02,210 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:02,210 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:02,211 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0196878910065
+2021-07-26 03:43:02,211 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 50, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:02,264 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:02,265 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:43:02,692 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:43:02,692 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270979]
+2021-07-26 03:43:02,693 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:02,693 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 50
+2021-07-26 03:43:02,694 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:02,694 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:02,694 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:02,694 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:02,695 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:02,695 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:02,695 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:02,695 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:02,696 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:02,696 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:02,696 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:02,708 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:02,709 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:02,709 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:02,709 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:02,710 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:02,710 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:02,710 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:02,711 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0189559459686
+2021-07-26 03:43:02,711 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 50, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:02,808 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 13.86ms
+2021-07-26 03:43:02,825 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 8.04ms
+2021-07-26 03:43:03,193 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270979]
+2021-07-26 03:43:03,193 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:43:03,197 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 11/
+2021-07-26 03:43:03,198 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:03,198 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 49
+2021-07-26 03:43:03,199 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:03,199 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:03,200 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:03,200 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:03,201 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:03,201 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:03,202 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:03,202 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:03,203 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:03,203 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:03,204 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:03,221 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:03,221 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:03,221 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:03,222 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:03,222 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:03,223 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:03,223 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:03,223 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0305140018463
+2021-07-26 03:43:03,223 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 49, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:03,276 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:03,277 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:43:03,694 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:43:03,694 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270980]
+2021-07-26 03:43:03,695 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:03,695 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 49
+2021-07-26 03:43:03,695 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:03,695 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:03,696 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:03,696 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:03,696 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:03,697 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:03,697 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:03,697 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:03,697 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:03,698 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:03,698 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:03,715 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:03,716 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:03,716 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:03,717 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:03,718 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:03,719 [DEBUG] netort.process process.py:23	Starting: sh -c "df --no-sync -m -P -l -x fuse -x tmpfs -x devtmpfs -x davfs -x nfs /var/loadtest/logs | tail -n 1 | awk '{print \$4}' "
+2021-07-26 03:43:03,839 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 10.89ms
+2021-07-26 03:43:03,848 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 4.21ms
+2021-07-26 03:43:04,098 [ERROR] netort.process process.py:43	There were errors:
+df: no file systems processed
+
+2021-07-26 03:43:04,099 [DEBUG] netort.process process.py:48	Process exit code: 0
+2021-07-26 03:43:04,099 [DEBUG] root plugin.py:58	Result: (0, '', 'df: no file systems processed\n')
+2021-07-26 03:43:04,099 [DEBUG] yandextank.common.interfaces plugin.py:60	No disk usage info: df: no file systems processed
+
+2021-07-26 03:43:04,100 [DEBUG] yandextank.common.interfaces plugin.py:75	Memory free: 10279/512
+2021-07-26 03:43:04,100 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:04,100 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:04,100 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.406441926956
+2021-07-26 03:43:04,101 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 49, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:04,195 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270980]
+2021-07-26 03:43:04,195 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2021-07-26 03:43:04,198 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 13/
+2021-07-26 03:43:04,198 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:04,199 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 48
+2021-07-26 03:43:04,199 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:04,200 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:04,200 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:04,201 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:04,201 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:04,202 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:04,202 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:04,202 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:04,203 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:04,203 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:04,204 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:04,218 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:04,219 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:04,219 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:04,219 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:04,220 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:04,221 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:04,221 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:04,222 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0272657871246
+2021-07-26 03:43:04,222 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 48, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:04,283 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/push_data.json?upload_token=46b5c8719ce645988b65f0d5ecb4a641&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:04,284 [DEBUG] yandextank.plugins.DataUploader.client client.py:511	API response: [{u'success': 1}]
+2021-07-26 03:43:04,696 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2021-07-26 03:43:04,697 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270981]
+2021-07-26 03:43:04,699 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:04,700 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/eta: 48
+2021-07-26 03:43:04,701 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:04,702 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:04,703 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:04,704 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 176x20
+2021-07-26 03:43:04,704 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 115/56
+2021-07-26 03:43:04,705 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 4 info widgets
+2021-07-26 03:43:04,706 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.Phantom.widget.PhantomProgressBarWidget object at 0x7f02bd969b90>
+2021-07-26 03:43:04,707 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f02bd9d3e90>
+2021-07-26 03:43:04,708 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #2: <yandextank.plugins.Phantom.widget.PhantomInfoWidget object at 0x7f02bd969050>
+2021-07-26 03:43:04,709 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f02bd969f90>
+2021-07-26 03:43:04,710 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2021-07-26 03:43:04,726 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2021-07-26 03:43:04,727 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:04,727 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2021-07-26 03:43:04,727 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:04,728 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2021-07-26 03:43:04,728 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:04,728 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:04,729 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.0327320098877
+2021-07-26 03:43:04,729 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "stepper": {"progress": 100, "loop_count": 329, "speed": "1 Krps"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/446523", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 329, "cmdline": "/usr/local/bin/yandex-tank", "target_port": 8081, "ammo_path": "/var/loadtest/ammo.txt ", "target_host": "host.docker.internal"}, "job_no": 446523, "job_dsc": ""}, "Plugin": {"eta": 48, "web_link": "https://overload.yandex.net/446523", "jobno": 446523, "job_no": 446523}}
+2021-07-26 03:43:04,784 [WARNING] yandextank.core.tankcore tankcore.py:345	Interrupting
+2021-07-26 03:43:04,872 [DEBUG] yandextank.plugins.Phantom.reader reader.py:62	Chunk decode time: 17.40ms
+2021-07-26 03:43:04,884 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 5.40ms
+2021-07-26 03:43:05,197 [INFO] yandextank.core.tankcore tankcore.py:301	Finishing test...
+2021-07-26 03:43:05,198 [INFO] yandextank.core.tankcore tankcore.py:303	Stopping load generator and aggregator
+2021-07-26 03:43:05,199 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:176	Seems phantom finished OK
+2021-07-26 03:43:05,201 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:123	Closing stats reader
+2021-07-26 03:43:05,202 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:126	Waiting for gun drain to finish
+2021-07-26 03:43:05,891 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 4.29ms
+2021-07-26 03:43:05,897 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 3.77ms
+2021-07-26 03:43:05,903 [DEBUG] yandextank.aggregator.aggregator aggregator.py:157	Aggregation time: 5.65ms
+2021-07-26 03:43:05,904 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:128	Waiting for stats drain to finish
+2021-07-26 03:43:06,634 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:130	Collecting remaining data
+2021-07-26 03:43:06,634 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: [1627270981, 1627270982, 1627270983, 1627270984]
+2021-07-26 03:43:06,634 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: [1627270982]
+2021-07-26 03:43:06,637 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 16/
+2021-07-26 03:43:06,638 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 18/
+2021-07-26 03:43:06,638 [INFO] yandextank.aggregator.tank_aggregator tank_aggregator.py:108	Timestamps without stats:
+2021-07-26 03:43:06,639 [INFO] yandextank.aggregator.tank_aggregator tank_aggregator.py:110	1627270983
+2021-07-26 03:43:06,640 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 21/
+2021-07-26 03:43:06,640 [INFO] yandextank.aggregator.tank_aggregator tank_aggregator.py:110	1627270984
+2021-07-26 03:43:06,642 [DEBUG] yandextank.plugins.Phantom.plugin plugin.py:193	Processed ammo count: 23/
+2021-07-26 03:43:06,642 [DEBUG] yandextank.core.tankcore tankcore.py:305	RC after: 1
+2021-07-26 03:43:06,642 [INFO] yandextank.core.tankcore tankcore.py:307	Stopping monitoring
+2021-07-26 03:43:06,643 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:06,643 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,643 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,643 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:06,644 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,644 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,644 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:06,644 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,644 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,645 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,646 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:06,646 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,646 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2021-07-26 03:43:06,650 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:438	Closing Data Uploader thread
+2021-07-26 03:43:06,678 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinitial.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:06,680 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2021-07-26 03:43:06,681 [DEBUG] urllib3.connectionpool connectionpool.py:240	Resetting dropped connection: overload.yandex.net
+2021-07-26 03:43:06,818 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinfo.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:06,819 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:478	Unlocking targets: ['host.docker.internal']
+2021-07-26 03:43:06,820 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:480	host.docker.internal
+2021-07-26 03:43:06,820 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,821 [DEBUG] yandextank.core.tankcore tankcore.py:315	Finalize <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:06,822 [DEBUG] yandextank.core.tankcore tankcore.py:317	RC before: 1
+2021-07-26 03:43:06,822 [DEBUG] yandextank.core.tankcore tankcore.py:319	RC after: 1
+2021-07-26 03:43:06,823 [INFO] yandextank.core.tankcore tankcore.py:330	Post-processing test...
+2021-07-26 03:43:06,823 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.Phantom.plugin.Plugin object at 0x7f02bd9f3290>
+2021-07-26 03:43:06,824 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,824 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,825 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f02bd969650>
+2021-07-26 03:43:06,825 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,826 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,826 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f02bd969150>
+2021-07-26 03:43:06,827 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,827 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,827 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.Console.plugin.Plugin object at 0x7f02bd969710>
+2021-07-26 03:43:06,828 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,828 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,829 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f02bd969790>
+2021-07-26 03:43:06,829 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,830 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,830 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f02bd9f3110>
+2021-07-26 03:43:06,830 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,831 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:06,831 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f02bd9f3bd0>
+2021-07-26 03:43:06,832 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:06,832 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:350	Waiting for sender threads to join.
+2021-07-26 03:43:06,848 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:418	Monitoring Uploader queue returned None
+2021-07-26 03:43:06,849 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:438	Closing Monitoring Uploader thread
+2021-07-26 03:43:06,850 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:357	Web link: https://overload.yandex.net/446523
+2021-07-26 03:43:06,850 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Autostop.plugin.Plugin'>
+2021-07-26 03:43:06,851 [DEBUG] yandextank.plugins.DataUploader.plugin plugin.py:376	No autostop cause detected
+2021-07-26 03:43:06,851 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2021-07-26 03:43:06,890 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinitial.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:06,891 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2021-07-26 03:43:06,892 [DEBUG] urllib3.connectionpool connectionpool.py:240	Resetting dropped connection: overload.yandex.net
+2021-07-26 03:43:07,041 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/446523/configinfo.txt?api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:07,042 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:07,043 [DEBUG] yandextank.core.tankcore tankcore.py:333	Post-process <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f02bdd18a10>
+2021-07-26 03:43:07,043 [DEBUG] yandextank.core.tankcore tankcore.py:335	RC before: 1
+2021-07-26 03:43:07,045 [DEBUG] yandextank.core.tankcore tankcore.py:337	RC after: 1
+2021-07-26 03:43:07,045 [INFO] root consoleworker.py:269	Trying to clean up
+2021-07-26 03:43:07,046 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_phantom
+2021-07-26 03:43:07,047 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_autostop
+2021-07-26 03:43:07,047 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_shellexec
+2021-07-26 03:43:07,048 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_console
+2021-07-26 03:43:07,048 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_rcassert
+2021-07-26 03:43:07,050 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_rcheck
+2021-07-26 03:43:07,050 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_overload
+2021-07-26 03:43:07,223 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "GET /api/job/446523/close.json?exitcode=1&api_token=5ce64c95530f463f873ca46140d13c3b HTTP/1.1" 200 16
+2021-07-26 03:43:07,225 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:478	Unlocking targets: ['host.docker.internal']
+2021-07-26 03:43:07,225 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:480	host.docker.internal
+2021-07-26 03:43:07,225 [INFO] yandextank.core.tankcore tankcore.py:526	Cleaning up plugin plugin_json_report
+2021-07-26 03:43:07,226 [INFO] yandextank.core.tankcore tankcore.py:561	Releasing lock: /var/lock/lunapark_EGN_P3.lock
+2021-07-26 03:43:07,259 [DEBUG] yandextank.core.tankcore tankcore.py:367	Collecting artifacts
+2021-07-26 03:43:07,259 [INFO] yandextank.core.tankcore tankcore.py:368	Artifacts dir: /var/loadtest/logs/2021-07-26_03-42-50.916799
+2021-07-26 03:43:07,259 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf to /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf
+2021-07-26 03:43:07,261 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf
+2021-07-26 03:43:07,262 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log to /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log
+2021-07-26 03:43:07,264 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log
+2021-07-26 03:43:07,264 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log to /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log
+2021-07-26 03:43:07,266 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log
+2021-07-26 03:43:07,266 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log to /var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log
+2021-07-26 03:43:07,268 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log
+2021-07-26 03:43:07,269 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stdout_stderr_i3ncVA.log to /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stdout_stderr_i3ncVA.log
+2021-07-26 03:43:07,270 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stdout_stderr_i3ncVA.log
+2021-07-26 03:43:07,271 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: validation_error.yaml to /var/loadtest/logs/2021-07-26_03-42-50.916799/validation_error.yaml
+2021-07-26 03:43:07,271 [WARNING] yandextank.core.tankcore tankcore.py:424	File not found to collect: validation_error.yaml
+2021-07-26 03:43:07,272 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log to /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log
+2021-07-26 03:43:07,272 [WARNING] yandextank.core.tankcore tankcore.py:429	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log
+2021-07-26 03:43:07,273 [DEBUG] yandextank.core.tankcore tankcore.py:422	Collecting file: jobno_file.txt to /var/loadtest/logs/2021-07-26_03-42-50.916799/jobno_file.txt

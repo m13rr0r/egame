@@ -1,0 +1,14 @@
+overload:
+  enabled: true
+  package: yandextank.plugins.DataUploader
+  token_file: "token.txt"
+phantom:
+  address: host.docker.internal:8081
+  ssl: false
+  ammofile: /var/loadtest/ammo.txt
+  ammo_type: uripost
+  load_profile:
+    load_type: rps
+    schedule: line(10, 450, 1m)
+telegraf:
+  enabled: false

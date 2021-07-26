@@ -1,0 +1,23 @@
+{exit_code: null, left_time: null, lunapark_id: null, lunapark_url: null, status_code: FINISHED,
+  tank_msg: "Exception occurred:\n<class 'yandextank.stepper.module_exceptions.StepperConfigurationError'>:\
+    \ Both uris and ammo file specified. You must specify only one of them\n  File\
+    \ \"/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py\"\
+    , line 375, in run\n    self.core.plugins_configure()\n\n  File \"/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py\"\
+    , line 245, in plugins_configure\n    plugin.configure()\n\n  File \"/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py\"\
+    , line 72, in configure\n    self.phantom_config = self.phantom.config_file\n\n\
+    \  File \"/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py\"\
+    , line 106, in config_file\n    self._config_file = self.compose_config()\n\n\
+    \  File \"/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py\"\
+    , line 114, in compose_config\n    streams_config += stream.compose_config()\n\
+    \n  File \"/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py\"\
+    , line 288, in compose_config\n    self.stepper_wrapper.prepare_stepper()\n\n\
+    \  File \"/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py\"\
+    , line 228, in prepare_stepper\n    self.__make_stpd_file()\n\n  File \"/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py\"\
+    , line 316, in __make_stpd_file\n    use_cache=self.use_caching)\n\n  File \"\
+    /usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py\", line 57,\
+    \ in __init__\n    self.af = AmmoFactory(ComponentFactory(**kwargs))\n\n  File\
+    \ \"/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py\", line\
+    \ 30, in __init__\n    self.ammo_generator = factory.get_ammo_generator()\n\n\
+    \  File \"/usr/local/lib/python2.7/dist-packages/yandextank/stepper/config.py\"\
+    , line 90, in get_ammo_generator\n    'Both uris and ammo file specified. You\
+    \ must specify only one of them'\n"}

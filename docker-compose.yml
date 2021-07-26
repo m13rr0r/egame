@@ -1,0 +1,23 @@
+services:
+  egame:
+    image: egame
+    depends_on:
+      - ch-server
+      - ch-client
+    ports:
+      - 8081:80
+    environment:
+      APP_NAME: "egame"
+      APP_DB_STORAGE_URI: "tcp://host.docker.internal:8250?database=egame&debug=false"
+    volumes:
+      - ./app:/go/src/egame
+
+  ch-client:
+    image: yandex/clickhouse-client
+    command: [ '--host', 'server' ]
+
+  ch-server:
+    image: yandex/clickhouse-server
+    ports:
+      - 8250:9000
+      - 8123:8123

@@ -1,0 +1,1164 @@
+2021-07-25 18:47:28,525	Exception occurred:
+<type 'exceptions.RuntimeError'>: All connection attempts failed for localhost, use {phantom.connection_test: false} to disable it
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 81, in phantom
+    self._phantom.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 95, in read_config
+    stream.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 275, in read_config
+    self.address, do_test_connect, explicit_port)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/common/util.py", line 555, in resolve
+    raise RuntimeError(msg % address_str)
+
+2021-07-25 18:47:28,528	Job number is not available yet
+2021-07-25 18:47:28,528	Job number is not available yet
+2021-07-25 18:47:28,535	File already exists: /var/loadtest/logs/2021-07-25_18-47-28.417704/phantom_QJ5Z5v.log
+2021-07-25 18:47:28,537	File already exists: /var/loadtest/logs/2021-07-25_18-47-28.417704/phout_eNh7i4.log
+2021-07-25 18:47:28,539	File not found to collect: validation_error.yaml
+2021-07-25 18:47:28,541	File already exists: /var/loadtest/logs/2021-07-25_18-47-28.417704/phantom_stat_VjGSwE.log
+2021-07-25 18:47:28,544	File already exists: /var/loadtest/logs/2021-07-25_18-47-28.417704/answ_tOB83V.log
+2021-07-25 18:47:42,723	Exception occurred:
+<type 'exceptions.RuntimeError'>: All connection attempts failed for localhost, use {phantom.connection_test: false} to disable it
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 81, in phantom
+    self._phantom.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 95, in read_config
+    stream.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 275, in read_config
+    self.address, do_test_connect, explicit_port)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/common/util.py", line 555, in resolve
+    raise RuntimeError(msg % address_str)
+
+2021-07-25 18:47:42,726	Job number is not available yet
+2021-07-25 18:47:42,726	Job number is not available yet
+2021-07-25 18:47:42,733	File already exists: /var/loadtest/logs/2021-07-25_18-47-42.602944/answ_E6KouH.log
+2021-07-25 18:47:42,734	File not found to collect: validation_error.yaml
+2021-07-25 18:47:42,736	File already exists: /var/loadtest/logs/2021-07-25_18-47-42.602944/phout_lg_RIu.log
+2021-07-25 18:47:42,738	File already exists: /var/loadtest/logs/2021-07-25_18-47-42.602944/phantom_stat_LupU9_.log
+2021-07-25 18:47:42,740	File already exists: /var/loadtest/logs/2021-07-25_18-47-42.602944/phantom_LmDac4.log
+2021-07-25 18:49:56,502	There were errors:
+df: no file systems processed
+
+2021-07-25 18:49:58,013	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:08,570	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:19,126	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:29,610	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:40,172	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:50,672	There were errors:
+df: no file systems processed
+
+2021-07-25 18:50:59,904	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/phantom_XFwnDQ.log
+2021-07-25 18:50:59,906	File not found to collect: validation_error.yaml
+2021-07-25 18:50:59,908	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/answ_duFZjD.log
+2021-07-25 18:50:59,911	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/phantom_B21xi4.conf
+2021-07-25 18:50:59,912	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/phout_iFNqWr.log
+2021-07-25 18:50:59,914	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/phantom_stat_bPzTdO.log
+2021-07-25 18:50:59,917	File already exists: /var/loadtest/logs/2021-07-25_18-49-55.617761/phantom_stdout_stderr_F7qcyw.log
+2021-07-25 18:58:56,917	There were errors:
+df: no file systems processed
+
+2021-07-25 18:58:58,340	There were errors:
+df: no file systems processed
+
+2021-07-25 18:59:08,872	There were errors:
+df: no file systems processed
+
+2021-07-25 18:59:19,398	There were errors:
+df: no file systems processed
+
+2021-07-25 18:59:29,931	There were errors:
+df: no file systems processed
+
+2021-07-25 18:59:40,497	There were errors:
+df: no file systems processed
+
+2021-07-25 18:59:50,968	There were errors:
+df: no file systems processed
+
+2021-07-25 19:00:00,415	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/phantom_stdout_stderr_wUaQ4E.log
+2021-07-25 19:00:00,419	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/phout_6vWzn0.log
+2021-07-25 19:00:00,425	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/answ_RQDqNz.log
+2021-07-25 19:00:00,431	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/phantom_NTNW83.conf
+2021-07-25 19:00:00,432	File not found to collect: validation_error.yaml
+2021-07-25 19:00:00,436	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/phantom_stat_EkuNXa.log
+2021-07-25 19:00:00,439	File already exists: /var/loadtest/logs/2021-07-25_18-58-56.051968/phantom_sJfvpr.log
+2021-07-25 19:15:03,103	There were errors:
+df: no file systems processed
+
+2021-07-25 19:15:04,471	There were errors:
+df: no file systems processed
+
+2021-07-25 19:15:15,031	There were errors:
+df: no file systems processed
+
+2021-07-25 19:15:25,569	There were errors:
+df: no file systems processed
+
+2021-07-25 19:15:28,713	Interrupting
+2021-07-25 19:15:31,138	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/answ_bPD6uT.log
+2021-07-25 19:15:31,140	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/phout_H5sBc_.log
+2021-07-25 19:15:31,142	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/phantom_stat_fszQfG.log
+2021-07-25 19:15:31,144	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/phantom_Uwf58a.conf
+2021-07-25 19:15:31,147	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/phantom_stdout_stderr_622CQK.log
+2021-07-25 19:15:31,148	File not found to collect: validation_error.yaml
+2021-07-25 19:15:31,150	File already exists: /var/loadtest/logs/2021-07-25_19-15-02.231710/phantom_xzLZiq.log
+2021-07-25 19:20:39,984	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.StepperConfigurationError'>: Both uris and ammo file specified. You must specify only one of them
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 316, in __make_stpd_file
+    use_cache=self.use_caching)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 57, in __init__
+    self.af = AmmoFactory(ComponentFactory(**kwargs))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 30, in __init__
+    self.ammo_generator = factory.get_ammo_generator()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/config.py", line 90, in get_ammo_generator
+    'Both uris and ammo file specified. You must specify only one of them'
+
+2021-07-25 19:20:39,987	Job number is not available yet
+2021-07-25 19:20:39,988	Job number is not available yet
+2021-07-25 19:20:39,996	File already exists: /var/loadtest/logs/2021-07-25_19-20-39.858149/phout_UwFp4e.log
+2021-07-25 19:20:39,999	File already exists: /var/loadtest/logs/2021-07-25_19-20-39.858149/phantom_stat_gkBSzI.log
+2021-07-25 19:20:40,000	File not found to collect: validation_error.yaml
+2021-07-25 19:20:40,002	File already exists: /var/loadtest/logs/2021-07-25_19-20-39.858149/answ_ahVXUx.log
+2021-07-25 19:20:40,004	File already exists: /var/loadtest/logs/2021-07-25_19-20-39.858149/phantom_FI5ByJ.log
+2021-07-25 19:21:00,837	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.StepperConfigurationError'>: Both uris and ammo file specified. You must specify only one of them
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 316, in __make_stpd_file
+    use_cache=self.use_caching)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 57, in __init__
+    self.af = AmmoFactory(ComponentFactory(**kwargs))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 30, in __init__
+    self.ammo_generator = factory.get_ammo_generator()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/config.py", line 90, in get_ammo_generator
+    'Both uris and ammo file specified. You must specify only one of them'
+
+2021-07-25 19:21:00,840	Job number is not available yet
+2021-07-25 19:21:00,840	Job number is not available yet
+2021-07-25 19:21:00,849	File already exists: /var/loadtest/logs/2021-07-25_19-21-00.744558/phantom_R7RKyp.log
+2021-07-25 19:21:00,851	File already exists: /var/loadtest/logs/2021-07-25_19-21-00.744558/phout_DzUqRY.log
+2021-07-25 19:21:00,852	File not found to collect: validation_error.yaml
+2021-07-25 19:21:00,854	File already exists: /var/loadtest/logs/2021-07-25_19-21-00.744558/phantom_stat_nU7NqP.log
+2021-07-25 19:21:00,856	File already exists: /var/loadtest/logs/2021-07-25_19-21-00.744558/answ_A8Lohv.log
+2021-07-25 19:23:15,298	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.StepperConfigurationError'>: Both uris and ammo file specified. You must specify only one of them
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 316, in __make_stpd_file
+    use_cache=self.use_caching)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 57, in __init__
+    self.af = AmmoFactory(ComponentFactory(**kwargs))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 30, in __init__
+    self.ammo_generator = factory.get_ammo_generator()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/config.py", line 90, in get_ammo_generator
+    'Both uris and ammo file specified. You must specify only one of them'
+
+2021-07-25 19:23:15,301	Job number is not available yet
+2021-07-25 19:23:15,301	Job number is not available yet
+2021-07-25 19:23:15,309	File already exists: /var/loadtest/logs/2021-07-25_19-23-15.206162/phantom_t4aTGX.log
+2021-07-25 19:23:15,310	File not found to collect: validation_error.yaml
+2021-07-25 19:23:15,312	File already exists: /var/loadtest/logs/2021-07-25_19-23-15.206162/answ_rW5Fof.log
+2021-07-25 19:23:15,313	File already exists: /var/loadtest/logs/2021-07-25_19-23-15.206162/phout_vffowT.log
+2021-07-25 19:23:15,315	File already exists: /var/loadtest/logs/2021-07-25_19-23-15.206162/phantom_stat_v3qEeN.log
+2021-07-25 19:24:06,134	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 224, header: 'ue\"}"', original exception: invalid literal for int() with base 10: 'ue\\"}"'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 19:24:06,154	Job number is not available yet
+2021-07-25 19:24:06,155	Job number is not available yet
+2021-07-25 19:24:06,165	File already exists: /var/loadtest/logs/2021-07-25_19-24-06.028818/phantom_stat_MWA5ua.log
+2021-07-25 19:24:06,167	File already exists: /var/loadtest/logs/2021-07-25_19-24-06.028818/phout_doYrXN.log
+2021-07-25 19:24:06,168	File not found to collect: validation_error.yaml
+2021-07-25 19:24:06,170	File already exists: /var/loadtest/logs/2021-07-25_19-24-06.028818/phantom_I7cqxn.log
+2021-07-25 19:24:06,172	File already exists: /var/loadtest/logs/2021-07-25_19-24-06.028818/answ_rUnf8a.log
+2021-07-25 19:24:31,398	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 230, header: '\":\"value\"}', original exception: invalid literal for int() with base 10: '\\":\\"value\\"}'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 19:24:31,401	Job number is not available yet
+2021-07-25 19:24:31,402	Job number is not available yet
+2021-07-25 19:24:31,412	File already exists: /var/loadtest/logs/2021-07-25_19-24-31.249193/answ_pnDaP1.log
+2021-07-25 19:24:31,414	File already exists: /var/loadtest/logs/2021-07-25_19-24-31.249193/phantom_ZNsUcM.log
+2021-07-25 19:24:31,415	File not found to collect: validation_error.yaml
+2021-07-25 19:24:31,417	File already exists: /var/loadtest/logs/2021-07-25_19-24-31.249193/phantom_stat_ikzclP.log
+2021-07-25 19:24:31,419	File already exists: /var/loadtest/logs/2021-07-25_19-24-31.249193/phout_0NKWrV.log
+2021-07-25 19:26:39,514	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 233, header: '1\":\"value2\"}"', original exception: invalid literal for int() with base 10: '1\\":\\"value2\\"}"'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 19:26:39,517	Job number is not available yet
+2021-07-25 19:26:39,518	Job number is not available yet
+2021-07-25 19:26:39,529	File already exists: /var/loadtest/logs/2021-07-25_19-26-39.382097/phantom_stat_cg1hAl.log
+2021-07-25 19:26:39,531	File already exists: /var/loadtest/logs/2021-07-25_19-26-39.382097/phout_fKaTuO.log
+2021-07-25 19:26:39,532	File not found to collect: validation_error.yaml
+2021-07-25 19:26:39,535	File already exists: /var/loadtest/logs/2021-07-25_19-26-39.382097/phantom_T1_tQg.log
+2021-07-25 19:26:39,537	File already exists: /var/loadtest/logs/2021-07-25_19-26-39.382097/answ_V0wWAG.log
+2021-07-25 21:24:37,119	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 213, header: ', "t1":"value"}', original exception: invalid literal for int() with base 10: ','
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 21:24:37,123	Job number is not available yet
+2021-07-25 21:24:37,123	Job number is not available yet
+2021-07-25 21:24:37,133	File already exists: /var/loadtest/logs/2021-07-25_21-24-36.992650/phout_oqXTIL.log
+2021-07-25 21:24:37,135	File already exists: /var/loadtest/logs/2021-07-25_21-24-36.992650/answ_Vuf6Yy.log
+2021-07-25 21:24:37,138	File already exists: /var/loadtest/logs/2021-07-25_21-24-36.992650/phantom_stat_Athc66.log
+2021-07-25 21:24:37,139	File not found to collect: validation_error.yaml
+2021-07-25 21:24:37,141	File already exists: /var/loadtest/logs/2021-07-25_21-24-36.992650/phantom_kivQIa.log
+2021-07-25 21:25:55,839	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 206, header: 'alue}"', original exception: invalid literal for int() with base 10: 'alue}"'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 21:25:55,842	Job number is not available yet
+2021-07-25 21:25:55,843	Job number is not available yet
+2021-07-25 21:25:55,852	File already exists: /var/loadtest/logs/2021-07-25_21-25-55.721726/phout_5sUoqj.log
+2021-07-25 21:25:55,854	File already exists: /var/loadtest/logs/2021-07-25_21-25-55.721726/phantom_EgWADk.log
+2021-07-25 21:25:55,855	File not found to collect: validation_error.yaml
+2021-07-25 21:25:55,857	File already exists: /var/loadtest/logs/2021-07-25_21-25-55.721726/phantom_stat_lUQUTe.log
+2021-07-25 21:25:55,859	File already exists: /var/loadtest/logs/2021-07-25_21-25-55.721726/answ_CDcA5Q.log
+2021-07-25 21:26:22,884	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 202, header: '1":1}"', original exception: invalid literal for int() with base 10: '1":1}"'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 144, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-25 21:26:22,888	Job number is not available yet
+2021-07-25 21:26:22,888	Job number is not available yet
+2021-07-25 21:26:22,898	File already exists: /var/loadtest/logs/2021-07-25_21-26-22.760345/phantom_stat__OuqHG.log
+2021-07-25 21:26:22,900	File already exists: /var/loadtest/logs/2021-07-25_21-26-22.760345/answ_ku_8NR.log
+2021-07-25 21:26:22,901	File not found to collect: validation_error.yaml
+2021-07-25 21:26:22,904	File already exists: /var/loadtest/logs/2021-07-25_21-26-22.760345/phout_RdUG2G.log
+2021-07-25 21:26:22,906	File already exists: /var/loadtest/logs/2021-07-25_21-26-22.760345/phantom_kbNs70.log
+2021-07-25 21:30:54,928	There were errors:
+df: no file systems processed
+
+2021-07-25 21:30:56,371	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:06,943	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:17,450	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:28,011	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:38,513	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:49,046	There were errors:
+df: no file systems processed
+
+2021-07-25 21:31:58,188	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/phout_IfL1Qi.log
+2021-07-25 21:31:58,191	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/answ_u6b1yr.log
+2021-07-25 21:31:58,193	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/phantom_vDrbBs.conf
+2021-07-25 21:31:58,195	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/phantom_stdout_stderr_8K2C77.log
+2021-07-25 21:31:58,196	File not found to collect: validation_error.yaml
+2021-07-25 21:31:58,203	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/phantom_ZZ40jQ.log
+2021-07-25 21:31:58,206	File already exists: /var/loadtest/logs/2021-07-25_21-30-53.849804/phantom_stat_6xa1_8.log
+2021-07-25 21:34:36,527	There were errors:
+df: no file systems processed
+
+2021-07-25 21:34:37,967	There were errors:
+df: no file systems processed
+
+2021-07-25 21:34:48,502	There were errors:
+df: no file systems processed
+
+2021-07-25 21:34:59,047	There were errors:
+df: no file systems processed
+
+2021-07-25 21:35:09,576	There were errors:
+df: no file systems processed
+
+2021-07-25 21:35:20,102	There were errors:
+df: no file systems processed
+
+2021-07-25 21:35:30,659	There were errors:
+df: no file systems processed
+
+2021-07-25 21:35:39,753	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/phout_ybMRTb.log
+2021-07-25 21:35:39,755	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/phantom_xHbR3K.log
+2021-07-25 21:35:39,757	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/answ_mjXIN2.log
+2021-07-25 21:35:39,758	File not found to collect: validation_error.yaml
+2021-07-25 21:35:39,759	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/phantom_stdout_stderr_aBNHTX.log
+2021-07-25 21:35:39,762	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/phantom_stat_15H91c.log
+2021-07-25 21:35:39,764	File already exists: /var/loadtest/logs/2021-07-25_21-34-35.450243/phantom_5UF38x.conf
+2021-07-26 03:39:01,580	Exception occurred:
+<type 'exceptions.RuntimeError'>: All connection attempts failed for host.docker.internal, use {phantom.connection_test: false} to disable it
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 81, in phantom
+    self._phantom.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 95, in read_config
+    stream.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 275, in read_config
+    self.address, do_test_connect, explicit_port)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/common/util.py", line 555, in resolve
+    raise RuntimeError(msg % address_str)
+
+2021-07-26 03:39:01,611	Job number is not available yet
+2021-07-26 03:39:01,613	Job number is not available yet
+2021-07-26 03:39:01,632	File already exists: /var/loadtest/logs/2021-07-26_03-38-55.276179/answ_aEWGx0.log
+2021-07-26 03:39:01,633	File not found to collect: validation_error.yaml
+2021-07-26 03:39:01,637	File already exists: /var/loadtest/logs/2021-07-26_03-38-55.276179/phantom_lNd82I.log
+2021-07-26 03:39:01,640	File already exists: /var/loadtest/logs/2021-07-26_03-38-55.276179/phantom_stat_dVMTA4.log
+2021-07-26 03:39:01,643	File already exists: /var/loadtest/logs/2021-07-26_03-38-55.276179/phout_qA4_Gz.log
+2021-07-26 03:40:57,721	Exception occurred:
+<type 'exceptions.RuntimeError'>: All connection attempts failed for host.docker.internal, use {phantom.connection_test: false} to disable it
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 81, in phantom
+    self._phantom.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 95, in read_config
+    stream.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 275, in read_config
+    self.address, do_test_connect, explicit_port)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/common/util.py", line 555, in resolve
+    raise RuntimeError(msg % address_str)
+
+2021-07-26 03:40:57,734	Job number is not available yet
+2021-07-26 03:40:57,734	Job number is not available yet
+2021-07-26 03:40:57,742	File already exists: /var/loadtest/logs/2021-07-26_03-40-51.489938/answ_UYviMc.log
+2021-07-26 03:40:57,744	File already exists: /var/loadtest/logs/2021-07-26_03-40-51.489938/phantom_stat_Hk3hai.log
+2021-07-26 03:40:57,745	File not found to collect: validation_error.yaml
+2021-07-26 03:40:57,746	File already exists: /var/loadtest/logs/2021-07-26_03-40-51.489938/phout_oIRiKL.log
+2021-07-26 03:40:57,748	File already exists: /var/loadtest/logs/2021-07-26_03-40-51.489938/phantom_Y4w_mX.log
+2021-07-26 03:41:20,139	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 986, header: 't"}', original exception: invalid literal for int() with base 10: 't"}'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 358, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-26 03:41:20,143	Job number is not available yet
+2021-07-26 03:41:20,143	Job number is not available yet
+2021-07-26 03:41:20,154	File already exists: /var/loadtest/logs/2021-07-26_03-41-19.970276/phout_5inCLK.log
+2021-07-26 03:41:20,156	File already exists: /var/loadtest/logs/2021-07-26_03-41-19.970276/answ_cClqLn.log
+2021-07-26 03:41:20,157	File not found to collect: validation_error.yaml
+2021-07-26 03:41:20,159	File already exists: /var/loadtest/logs/2021-07-26_03-41-19.970276/phantom_HRdZmO.log
+2021-07-26 03:41:20,161	File already exists: /var/loadtest/logs/2021-07-26_03-41-19.970276/phantom_stat_BqU5o8.log
+2021-07-26 03:41:34,520	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 986, header: 't"}', original exception: invalid literal for int() with base 10: 't"}'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 358, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-26 03:41:34,523	Job number is not available yet
+2021-07-26 03:41:34,523	Job number is not available yet
+2021-07-26 03:41:34,533	File already exists: /var/loadtest/logs/2021-07-26_03-41-34.420038/phantom_1yXGns.log
+2021-07-26 03:41:34,535	File already exists: /var/loadtest/logs/2021-07-26_03-41-34.420038/phantom_stat_6Sx5Ud.log
+2021-07-26 03:41:34,536	File not found to collect: validation_error.yaml
+2021-07-26 03:41:34,538	File already exists: /var/loadtest/logs/2021-07-26_03-41-34.420038/answ_ZxUFfr.log
+2021-07-26 03:41:34,540	File already exists: /var/loadtest/logs/2021-07-26_03-41-34.420038/phout_XTxEQz.log
+2021-07-26 03:42:51,978	There were errors:
+df: no file systems processed
+
+2021-07-26 03:42:53,554	There were errors:
+df: no file systems processed
+
+2021-07-26 03:43:04,098	There were errors:
+df: no file systems processed
+
+2021-07-26 03:43:04,784	Interrupting
+2021-07-26 03:43:07,261	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_KZqDmE.conf
+2021-07-26 03:43:07,264	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stat_1cbiW_.log
+2021-07-26 03:43:07,266	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_73V5K1.log
+2021-07-26 03:43:07,268	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/answ_xwkQR0.log
+2021-07-26 03:43:07,270	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phantom_stdout_stderr_i3ncVA.log
+2021-07-26 03:43:07,271	File not found to collect: validation_error.yaml
+2021-07-26 03:43:07,272	File already exists: /var/loadtest/logs/2021-07-26_03-42-50.916799/phout_pKeuqI.log
+2021-07-26 03:44:57,641	Exception occurred:
+<class 'yandextank.stepper.module_exceptions.AmmoFileError'>: Error while reading ammo file. Position: 991, header: '"}', original exception: invalid literal for int() with base 10: '"}'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 106, in config_file
+    self._config_file = self.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 114, in compose_config
+    streams_config += stream.compose_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 288, in compose_config
+    self.stepper_wrapper.prepare_stepper()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 228, in prepare_stepper
+    self.__make_stpd_file()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 318, in __make_stpd_file
+    stepper.write(os)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 61, in write
+    for missile in self.ammo:
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/format.py", line 19, in <genexpr>
+    "%s %s %s\n%s\n" % (len(missile), timestamp, marker, missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 48, in <genexpr>
+    return ((timestamp, marker or self.marker(missile), missile)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 43, in <genexpr>
+    ammo
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/main.py", line 44, in <genexpr>
+    for ammo in ((missile, marker or self.marker(missile))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/stepper/missile.py", line 358, in __iter__
+    % (ammo_file.tell(), chunk_header, e))
+
+2021-07-26 03:44:57,644	Job number is not available yet
+2021-07-26 03:44:57,645	Job number is not available yet
+2021-07-26 03:44:57,654	File already exists: /var/loadtest/logs/2021-07-26_03-44-57.497625/answ_LUG6jU.log
+2021-07-26 03:44:57,656	File already exists: /var/loadtest/logs/2021-07-26_03-44-57.497625/phantom_stat_jIdxvS.log
+2021-07-26 03:44:57,658	File not found to collect: validation_error.yaml
+2021-07-26 03:44:57,660	File already exists: /var/loadtest/logs/2021-07-26_03-44-57.497625/phout_nGxGYD.log
+2021-07-26 03:44:57,663	File already exists: /var/loadtest/logs/2021-07-26_03-44-57.497625/phantom_yxsx2S.log
+2021-07-26 03:45:49,858	There were errors:
+df: no file systems processed
+
+2021-07-26 03:45:51,299	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:01,864	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:12,388	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:22,906	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:33,494	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:43,968	There were errors:
+df: no file systems processed
+
+2021-07-26 03:46:53,245	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/phantom_HyL6va.conf
+2021-07-26 03:46:53,252	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/phantom_stat_Yiu9gS.log
+2021-07-26 03:46:53,260	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/phantom_qw8dd9.log
+2021-07-26 03:46:53,262	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/phout_ri3820.log
+2021-07-26 03:46:53,263	File not found to collect: validation_error.yaml
+2021-07-26 03:46:53,266	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/phantom_stdout_stderr_xU3fv0.log
+2021-07-26 03:46:53,268	File already exists: /var/loadtest/logs/2021-07-26_03-45-48.751555/answ_YfxE1L.log
+2021-07-26 03:47:49,148	There were errors:
+df: no file systems processed
+
+2021-07-26 03:47:50,627	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:01,147	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:11,706	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:22,219	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:32,785	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:43,297	There were errors:
+df: no file systems processed
+
+2021-07-26 03:48:52,423	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/phantom_stdout_stderr_SIf3EB.log
+2021-07-26 03:48:52,427	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/phantom_stat_km12a2.log
+2021-07-26 03:48:52,433	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/answ_TMfpaU.log
+2021-07-26 03:48:52,446	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/phout_S9GBMC.log
+2021-07-26 03:48:52,448	File not found to collect: validation_error.yaml
+2021-07-26 03:48:52,451	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/phantom_867N64.conf
+2021-07-26 03:48:52,453	File already exists: /var/loadtest/logs/2021-07-26_03-47-47.141807/phantom_ID1PNq.log
+2021-07-26 03:50:50,788	There were errors:
+df: no file systems processed
+
+2021-07-26 03:50:53,008	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:03,439	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:14,002	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:24,526	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:35,082	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:45,598	There were errors:
+df: no file systems processed
+
+2021-07-26 03:51:55,975	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/answ_Kd5l54.log
+2021-07-26 03:51:55,977	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/phantom_stat_YCuYgj.log
+2021-07-26 03:51:55,978	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/phout_FCKaB3.log
+2021-07-26 03:51:55,981	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/phantom_I_hPwA.log
+2021-07-26 03:51:55,983	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/phantom_stdout_stderr_0PpjgA.log
+2021-07-26 03:51:55,985	File already exists: /var/loadtest/logs/2021-07-26_03-50-46.040830/phantom_atM2BN.conf
+2021-07-26 03:51:55,987	File not found to collect: validation_error.yaml
+2021-07-26 03:52:15,510	There were errors:
+df: no file systems processed
+
+2021-07-26 03:52:17,116	There were errors:
+df: no file systems processed
+
+2021-07-26 03:52:27,668	There were errors:
+df: no file systems processed
+
+2021-07-26 03:52:38,176	There were errors:
+df: no file systems processed
+
+2021-07-26 03:52:48,723	There were errors:
+df: no file systems processed
+
+2021-07-26 03:52:59,294	There were errors:
+df: no file systems processed
+
+2021-07-26 03:53:09,887	There were errors:
+df: no file systems processed
+
+2021-07-26 03:53:18,673	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/answ_o7qJ1v.log
+2021-07-26 03:53:18,675	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/phantom_stat_OwglpX.log
+2021-07-26 03:53:18,678	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/phantom_stdout_stderr_aQ5cpr.log
+2021-07-26 03:53:18,679	File not found to collect: validation_error.yaml
+2021-07-26 03:53:18,681	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/phantom_3zdTIX.log
+2021-07-26 03:53:18,687	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/phout_oyqmos.log
+2021-07-26 03:53:18,689	File already exists: /var/loadtest/logs/2021-07-26_03-52-14.590139/phantom_s7p2mT.conf
+2021-07-26 03:55:37,805	There were errors:
+df: no file systems processed
+
+2021-07-26 03:55:40,218	There were errors:
+df: no file systems processed
+
+2021-07-26 03:55:57,087	There were errors:
+df: no file systems processed
+
+2021-07-26 03:56:07,651	There were errors:
+df: no file systems processed
+
+2021-07-26 03:56:20,135	There were errors:
+df: no file systems processed
+
+2021-07-26 03:56:26,283	Interrupting
+2021-07-26 03:56:28,218	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/phantom_stat_lTXNgt.log
+2021-07-26 03:56:28,221	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/phantom_nB3irZ.log
+2021-07-26 03:56:28,223	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/phout_nsS3Tq.log
+2021-07-26 03:56:28,225	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/phantom_stdout_stderr_9N6man.log
+2021-07-26 03:56:28,227	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/answ_OCub6x.log
+2021-07-26 03:56:28,228	File not found to collect: validation_error.yaml
+2021-07-26 03:56:28,230	File already exists: /var/loadtest/logs/2021-07-26_03-55-00.074085/phantom_dYFNND.conf
+2021-07-26 03:56:43,804	Exception occurred:
+<type 'exceptions.RuntimeError'>: All connection attempts failed for host.docker.internal, use {phantom.connection_test: false} to disable it
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 72, in configure
+    self.phantom_config = self.phantom.config_file
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/plugin.py", line 81, in phantom
+    self._phantom.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 95, in read_config
+    stream.read_config()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/utils.py", line 275, in read_config
+    self.address, do_test_connect, explicit_port)
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/common/util.py", line 555, in resolve
+    raise RuntimeError(msg % address_str)
+
+2021-07-26 03:56:43,807	Job number is not available yet
+2021-07-26 03:56:43,808	Job number is not available yet
+2021-07-26 03:56:43,815	File already exists: /var/loadtest/logs/2021-07-26_03-56-37.567637/answ__zpJwV.log
+2021-07-26 03:56:43,818	File already exists: /var/loadtest/logs/2021-07-26_03-56-37.567637/phantom_stat_0mTc9u.log
+2021-07-26 03:56:43,818	File not found to collect: validation_error.yaml
+2021-07-26 03:56:43,821	File already exists: /var/loadtest/logs/2021-07-26_03-56-37.567637/phout_KpQOLm.log
+2021-07-26 03:56:43,823	File already exists: /var/loadtest/logs/2021-07-26_03-56-37.567637/phantom_6ReqoM.log
+2021-07-26 03:57:16,050	There were errors:
+df: no file systems processed
+
+2021-07-26 03:57:17,682	There were errors:
+df: no file systems processed
+
+2021-07-26 03:57:28,235	There were errors:
+df: no file systems processed
+
+2021-07-26 03:57:38,870	There were errors:
+df: no file systems processed
+
+2021-07-26 03:57:49,736	There were errors:
+df: no file systems processed
+
+2021-07-26 03:58:01,366	There were errors:
+df: no file systems processed
+
+2021-07-26 03:58:11,984	There were errors:
+df: no file systems processed
+
+2021-07-26 03:58:21,481	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/phantom_stat_GTMAKG.log
+2021-07-26 03:58:21,483	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/phantom_U4d94q.log
+2021-07-26 03:58:21,486	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/phantom_vwhNuN.conf
+2021-07-26 03:58:21,487	File not found to collect: validation_error.yaml
+2021-07-26 03:58:21,489	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/phout_AgM932.log
+2021-07-26 03:58:21,496	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/phantom_stdout_stderr_SfEdxj.log
+2021-07-26 03:58:21,498	File already exists: /var/loadtest/logs/2021-07-26_03-57-03.258388/answ_KjTTBf.log
+2021-07-26 04:00:06,383	There were errors:
+df: no file systems processed
+
+2021-07-26 04:00:13,114	There were errors:
+df: no file systems processed
+
+2021-07-26 04:00:23,918	There were errors:
+df: no file systems processed
+
+2021-07-26 04:00:26,357	Interrupting
+2021-07-26 04:00:28,381	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,384	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,384	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,385	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,386	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,388	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,388	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,389	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,390	Sparkline got outdated second 1627272007, oldest in list 1627272012
+2021-07-26 04:00:28,392	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,394	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,395	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,396	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,396	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,397	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,397	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,398	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,399	Sparkline got outdated second 1627272008, oldest in list 1627272012
+2021-07-26 04:00:28,867	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/phantom_stat_Hvfymr.log
+2021-07-26 04:00:28,869	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/answ_WMg3Uz.log
+2021-07-26 04:00:28,872	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/phantom_1qCWpb.conf
+2021-07-26 04:00:28,874	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/phantom_stdout_stderr_b3De7p.log
+2021-07-26 04:00:28,875	File not found to collect: validation_error.yaml
+2021-07-26 04:00:28,876	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/phout_8Q9H74.log
+2021-07-26 04:00:28,884	File already exists: /var/loadtest/logs/2021-07-26_03-59-55.524012/phantom_ASiRHZ.log
+2021-07-26 04:01:00,621	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:02,249	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:12,846	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:23,500	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:34,447	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:45,419	There were errors:
+df: no file systems processed
+
+2021-07-26 04:01:57,661	There were errors:
+df: no file systems processed
+
+2021-07-26 04:02:08,293	There were errors:
+df: no file systems processed
+
+2021-07-26 04:02:17,415	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/answ_HxkkHq.log
+2021-07-26 04:02:17,418	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/phantom_stdout_stderr_fetvsX.log
+2021-07-26 04:02:17,420	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/phantom_4Pa7_U.conf
+2021-07-26 04:02:17,422	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/phantom_stat_s53ADw.log
+2021-07-26 04:02:17,423	File not found to collect: validation_error.yaml
+2021-07-26 04:02:17,425	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/phantom_CBTOhX.log
+2021-07-26 04:02:17,432	File already exists: /var/loadtest/logs/2021-07-26_04-00-59.716205/phout_w4HG92.log
+2021-07-26 04:08:16,889	There were errors:
+df: no file systems processed
+
+2021-07-26 04:08:27,585	There were errors:
+df: no file systems processed
+
+2021-07-26 04:08:38,404	There were errors:
+df: no file systems processed
+
+2021-07-26 04:08:49,082	There were errors:
+df: no file systems processed
+
+2021-07-26 04:08:52,273	Interrupting
+2021-07-26 04:08:54,682	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/phantom_stat_aYhs7r.log
+2021-07-26 04:08:54,685	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/phantom_hcrGWo.conf
+2021-07-26 04:08:54,688	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/phantom_stdout_stderr_UHFvpN.log
+2021-07-26 04:08:54,690	File not found to collect: validation_error.yaml
+2021-07-26 04:08:54,692	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/answ_zUiana.log
+2021-07-26 04:08:54,700	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/phout_JqT3UL.log
+2021-07-26 04:08:54,702	File already exists: /var/loadtest/logs/2021-07-26_04-08-06.575657/phantom_UkAFD_.log
+2021-07-26 04:09:25,571	There were errors:
+df: no file systems processed
+
+2021-07-26 04:09:26,993	There were errors:
+df: no file systems processed
+
+2021-07-26 04:09:37,589	There were errors:
+df: no file systems processed
+
+2021-07-26 04:09:48,235	There were errors:
+df: no file systems processed
+
+2021-07-26 04:09:59,368	There were errors:
+df: no file systems processed
+
+2021-07-26 04:10:10,576	There were errors:
+df: no file systems processed
+
+2021-07-26 04:10:21,997	There were errors:
+df: no file systems processed
+
+2021-07-26 04:10:32,486	There were errors:
+df: no file systems processed
+
+2021-07-26 04:10:36,204	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/phantom_P3ULP6.conf
+2021-07-26 04:10:36,205	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/phout_tBlEJe.log
+2021-07-26 04:10:36,207	File not found to collect: validation_error.yaml
+2021-07-26 04:10:36,210	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/phantom_stat_VRSUWL.log
+2021-07-26 04:10:36,213	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/phantom_phjYkT.log
+2021-07-26 04:10:36,219	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/phantom_stdout_stderr_ul5_VW.log
+2021-07-26 04:10:36,222	File already exists: /var/loadtest/logs/2021-07-26_04-09-24.695164/answ_hQrNUV.log
