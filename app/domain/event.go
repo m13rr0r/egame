@@ -1,7 +1,5 @@
 package domain
 
-import "time"
-
 type Event struct {
 	ClientTime string `json:"client_time"`
 	DeviceId   string `json:"device_id"`
@@ -12,10 +10,12 @@ type Event struct {
 	ParamInt   int    `json:"param_int"`
 	ParamStr   string `json:"param_str"`
 	Ip         string
-	ServerTime time.Time
+	ServerTime int64
 }
 
-func (extEvent *Event) Enrichment(ip string, serverTime time.Time) *Event {
+type Events []Event
+
+func (extEvent *Event) Enrichment(ip string, serverTime int64) *Event {
 	extEvent.Ip = ip
 	extEvent.ServerTime = serverTime
 	return extEvent

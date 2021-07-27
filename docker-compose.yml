@@ -3,7 +3,6 @@ services:
     image: egame
     depends_on:
       - ch-server
-      - ch-client
     ports:
       - 8081:80
     environment:
