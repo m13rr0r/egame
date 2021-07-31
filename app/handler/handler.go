@@ -13,7 +13,6 @@ func (c *Context) TimeLimitHandler(eventChan chan *fastjson.Value, stg *storage.
 		if len(eventChan) > 0 {
 			lenChan := len(eventChan)
 			go persistence.PutEvents(stg, eventChan, lenChan)
-
 		}
 		time.Sleep(time.Second * 1)
 	}
