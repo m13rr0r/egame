@@ -1,8 +1,0 @@
-2021-07-25 19:15:03.946 +0000 [info] [] Start
-2021-07-25 19:15:03.957 +0000 [error] [benchmark_io 145] format error
-2021-07-25 19:15:28.714 +0000 [error] [monitor_io] bq_sleep: Operation canceled
-2021-07-25 19:15:28.714 +0000 [error] [benchmark_io stream_method brief_logger] bq_sleep: Operation canceled
-2021-07-25 19:15:28.714 +0000 [error] [monitor_io] bq_sleep: Operation canceled
-2021-07-25 19:15:28.714 +0000 [error] [phantom_logger] bq_sleep: Operation canceled
-2021-07-25 19:15:28.715 +0000 [error] [benchmark_io] cond-wait: Operation canceled
-2021-07-25 19:15:28.716 +0000 [info] [] Exit

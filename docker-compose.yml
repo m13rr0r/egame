@@ -11,10 +11,6 @@ services:
     volumes:
       - ./app:/go/src/egame
 
-  ch-client:
-    image: yandex/clickhouse-client
-    command: [ '--host', 'server' ]
-
   ch-server:
     image: yandex/clickhouse-server
     ports:

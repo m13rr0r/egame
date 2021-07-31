@@ -1,32 +1,42 @@
 package main
 
 import (
+	"fmt"
+	"net/http"
 	"os"
 
-	"github.com/labstack/echo/v4"
-	"github.com/labstack/echo/v4/middleware"
 	"github.com/m13rr0r/egame/handler"
 	"github.com/m13rr0r/egame/infrastructure/storage"
+	"github.com/valyala/fastjson"
 )
 
-func main() {
-	e := echo.New()
+// LimitSize https://clickhouse.tech/docs/ru/introduction/performance/
+const LimitSize = 500000
 
-	// Middleware
-	e.Use(middleware.Logger())
-	e.Logger.Print(os.Getenv("APP_DB_STORAGE_URI"))
+func main() {
+
 	stg, err := storage.NewStorage(os.Getenv("APP_DB_STORAGE_URI"))
 	if err != nil {
-		e.Logger.Fatal(err)
+		fmt.Printf("%v\n", err.Error())
 	}
 
-	h := &handler.Handler{DB: stg}
+	eventChan := make(chan *fastjson.Value, LimitSize)
+
+	c := &handler.Context{Limit: LimitSize, EventChan: eventChan}
+
+	// Workers
+	go c.TimeLimitHandler(eventChan, stg)
+
+	go c.MaxLimitHandler(eventChan, stg)
+
 	// Routes
-	e.POST("/event", h.CreateEvent)
+	http.HandleFunc("/event", c.CreateEvent)
 
 	// Start server
-	e.Logger.Fatal(e.Start(":80"))
+	err = http.ListenAndServe(":80", nil)
+	if err != nil {
+		return
+	} else {
+		fmt.Println("Started at :8081")
+	}
 }
-
-
-

@@ -15,3 +15,6 @@ CREATE TABLE IF NOT EXISTS egame.events
 )
     ENGINE = MergeTree()
     PRIMARY KEY(device_id, session, sequence, server_time);
+
+CREATE TABLE egame.events_buffer AS egame.events
+    ENGINE = Buffer(egame, events, 16, 10, 100, 10000, 1000000, 10000000, 100000000)
