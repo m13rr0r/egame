@@ -3707,3 +3707,2641 @@ df: no file systems processed
 2021-07-31 00:44:11,434	File not found to collect: validation_error.yaml
 2021-07-31 00:44:11,436	File already exists: /var/loadtest/logs/2021-07-31_00-42-06.447334/phantom_xCnLSZ.log
 2021-07-31 00:44:11,443	File already exists: /var/loadtest/logs/2021-07-31_00-42-06.447334/answ_TwUrnE.log
+2021-08-02 14:34:28,463	There were errors:
+df: no file systems processed
+
+2021-08-02 14:34:30,538	There were errors:
+df: no file systems processed
+
+2021-08-02 14:34:41,360	There were errors:
+df: no file systems processed
+
+2021-08-02 14:34:52,572	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:03,846	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:14,853	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:25,825	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:36,842	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:48,218	There were errors:
+df: no file systems processed
+
+2021-08-02 14:35:59,431	There were errors:
+df: no file systems processed
+
+2021-08-02 14:36:10,524	There were errors:
+df: no file systems processed
+
+2021-08-02 14:36:21,704	There were errors:
+df: no file systems processed
+
+2021-08-02 14:36:32,869	There were errors:
+df: no file systems processed
+
+2021-08-02 14:36:44,078	There were errors:
+df: no file systems processed
+
+2021-08-02 14:36:52,722	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/phantom_stat_kEmISt.log
+2021-08-02 14:36:52,725	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/answ_h6ecqv.log
+2021-08-02 14:36:52,727	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/phout_S5fbNH.log
+2021-08-02 14:36:52,729	File not found to collect: validation_error.yaml
+2021-08-02 14:36:52,732	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/phantom_stdout_stderr_chpLtP.log
+2021-08-02 14:36:52,741	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/phantom_MOY1XY.log
+2021-08-02 14:36:52,743	File already exists: /var/loadtest/logs/2021-08-02_14-32-47.355539/phantom_nTHFZj.conf
+2021-08-02 14:42:45,638	There were errors:
+df: no file systems processed
+
+2021-08-02 14:42:46,818	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 14:42:46,819	Network error, will retry in 10s...
+2021-08-02 14:42:57,933	There were errors:
+df: no file systems processed
+
+2021-08-02 14:43:08,763	There were errors:
+df: no file systems processed
+
+2021-08-02 14:43:19,590	There were errors:
+df: no file systems processed
+
+2021-08-02 14:43:30,462	There were errors:
+df: no file systems processed
+
+2021-08-02 14:43:41,459	There were errors:
+df: no file systems processed
+
+2021-08-02 14:43:52,498	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:03,499	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:14,591	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:25,581	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:36,575	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:47,613	There were errors:
+df: no file systems processed
+
+2021-08-02 14:44:59,513	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/phantom_Q2CaSq.conf
+2021-08-02 14:44:59,514	File not found to collect: validation_error.yaml
+2021-08-02 14:44:59,515	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/phout_YGX9RZ.log
+2021-08-02 14:44:59,523	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/phantom_TezhqA.log
+2021-08-02 14:44:59,525	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/answ_f6sCB7.log
+2021-08-02 14:44:59,527	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/phantom_stat_mj3GCG.log
+2021-08-02 14:44:59,530	File already exists: /var/loadtest/logs/2021-08-02_14-42-44.701418/phantom_stdout_stderr_ZozYX5.log
+2021-08-02 14:45:49,991	There were errors:
+df: no file systems processed
+
+2021-08-02 14:45:51,880	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:02,621	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:13,459	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:24,279	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:35,188	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:46,241	There were errors:
+df: no file systems processed
+
+2021-08-02 14:46:57,284	There were errors:
+df: no file systems processed
+
+2021-08-02 14:47:08,379	There were errors:
+df: no file systems processed
+
+2021-08-02 14:47:19,499	There were errors:
+df: no file systems processed
+
+2021-08-02 14:47:30,546	There were errors:
+df: no file systems processed
+
+2021-08-02 14:47:41,576	There were errors:
+df: no file systems processed
+
+2021-08-02 14:47:52,628	There were errors:
+df: no file systems processed
+
+2021-08-02 14:48:03,321	There were errors:
+df: no file systems processed
+
+2021-08-02 14:48:04,738	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/phantom_stat_HGiTkd.log
+2021-08-02 14:48:04,740	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/answ_lNgRqW.log
+2021-08-02 14:48:04,742	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/phantom_fRnvI5.log
+2021-08-02 14:48:04,744	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/phantom_stdout_stderr_8294bV.log
+2021-08-02 14:48:04,745	File not found to collect: validation_error.yaml
+2021-08-02 14:48:04,747	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/phout_rbAgjp.log
+2021-08-02 14:48:04,753	File already exists: /var/loadtest/logs/2021-08-02_14-45-49.050756/phantom_u1q9Oi.conf
+2021-08-02 14:48:39,954	There were errors:
+df: no file systems processed
+
+2021-08-02 14:48:41,914	There were errors:
+df: no file systems processed
+
+2021-08-02 14:48:52,706	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:03,632	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:04,635	Interrupting
+2021-08-02 14:49:07,237	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/phout_wvW5QZ.log
+2021-08-02 14:49:07,240	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/answ_im_nDn.log
+2021-08-02 14:49:07,245	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/phantom_KZ4_8h.log
+2021-08-02 14:49:07,248	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/phantom_xf1dzq.conf
+2021-08-02 14:49:07,250	File not found to collect: validation_error.yaml
+2021-08-02 14:49:07,260	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/phantom_stat_YRvx8K.log
+2021-08-02 14:49:07,263	File already exists: /var/loadtest/logs/2021-08-02_14-48-38.953485/phantom_stdout_stderr_1ZE2Xa.log
+2021-08-02 14:49:24,883	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:26,588	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:37,221	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:47,875	There were errors:
+df: no file systems processed
+
+2021-08-02 14:49:58,625	There were errors:
+df: no file systems processed
+
+2021-08-02 14:50:09,375	There were errors:
+df: no file systems processed
+
+2021-08-02 14:50:20,186	There were errors:
+df: no file systems processed
+
+2021-08-02 14:50:31,101	There were errors:
+df: no file systems processed
+
+2021-08-02 14:50:42,000	There were errors:
+df: no file systems processed
+
+2021-08-02 14:50:52,914	There were errors:
+df: no file systems processed
+
+2021-08-02 14:51:03,878	There were errors:
+df: no file systems processed
+
+2021-08-02 14:51:14,787	There were errors:
+df: no file systems processed
+
+2021-08-02 14:51:25,810	There were errors:
+df: no file systems processed
+
+2021-08-02 14:51:28,262	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/phantom_KDldp6.conf
+2021-08-02 14:51:28,263	File not found to collect: validation_error.yaml
+2021-08-02 14:51:28,266	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/answ_NJLMo9.log
+2021-08-02 14:51:28,269	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/phantom_stat_BmCmiK.log
+2021-08-02 14:51:28,271	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/phantom_sj5QZ7.log
+2021-08-02 14:51:28,278	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/phout_9etRdo.log
+2021-08-02 14:51:28,280	File already exists: /var/loadtest/logs/2021-08-02_14-49-23.940330/phantom_stdout_stderr_pLIout.log
+2021-08-02 15:02:37,881	There were errors:
+df: no file systems processed
+
+2021-08-02 15:02:39,597	There were errors:
+df: no file systems processed
+
+2021-08-02 15:02:50,528	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:01,485	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:12,415	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:23,428	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:34,543	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:45,680	There were errors:
+df: no file systems processed
+
+2021-08-02 15:03:56,760	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:07,873	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:19,040	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:30,070	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:41,161	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:52,303	There were errors:
+df: no file systems processed
+
+2021-08-02 15:04:58,806	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/phout_t0iND_.log
+2021-08-02 15:04:58,808	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/phantom_NGcVSs.conf
+2021-08-02 15:04:58,809	File not found to collect: validation_error.yaml
+2021-08-02 15:04:58,817	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/phantom_stat_4K626w.log
+2021-08-02 15:04:58,819	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/answ_xqHsi4.log
+2021-08-02 15:04:58,821	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/phantom_stdout_stderr_Y4yOMS.log
+2021-08-02 15:04:58,823	File already exists: /var/loadtest/logs/2021-08-02_14-59-17.643155/phantom_1Xixuh.log
+2021-08-02 15:08:18,823	There were errors:
+df: no file systems processed
+
+2021-08-02 15:08:20,410	There were errors:
+df: no file systems processed
+
+2021-08-02 15:08:31,197	There were errors:
+df: no file systems processed
+
+2021-08-02 15:08:42,064	There were errors:
+df: no file systems processed
+
+2021-08-02 15:08:52,947	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:03,844	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:14,772	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:25,711	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:36,768	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:47,708	There were errors:
+df: no file systems processed
+
+2021-08-02 15:09:58,730	There were errors:
+df: no file systems processed
+
+2021-08-02 15:10:09,766	There were errors:
+df: no file systems processed
+
+2021-08-02 15:10:20,431	There were errors:
+df: no file systems processed
+
+2021-08-02 15:10:22,292	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/phantom_myhRm_.conf
+2021-08-02 15:10:22,296	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/phantom_stdout_stderr_K946Zs.log
+2021-08-02 15:10:22,298	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/phout_wDmugG.log
+2021-08-02 15:10:22,301	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/phantom_stat_e_dkg7.log
+2021-08-02 15:10:22,302	File not found to collect: validation_error.yaml
+2021-08-02 15:10:22,305	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/phantom_VsRcsL.log
+2021-08-02 15:10:22,308	File already exists: /var/loadtest/logs/2021-08-02_15-05-34.695092/answ_xRZJeO.log
+2021-08-02 15:14:46,800	There were errors:
+df: no file systems processed
+
+2021-08-02 15:14:49,115	There were errors:
+df: no file systems processed
+
+2021-08-02 15:14:59,996	There were errors:
+df: no file systems processed
+
+2021-08-02 15:15:10,885	There were errors:
+df: no file systems processed
+
+2021-08-02 15:15:21,848	There were errors:
+df: no file systems processed
+
+2021-08-02 15:15:32,778	There were errors:
+df: no file systems processed
+
+2021-08-02 15:15:43,704	There were errors:
+df: no file systems processed
+
+2021-08-02 15:15:54,650	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:05,684	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:16,840	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:27,919	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:38,991	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:50,061	There were errors:
+df: no file systems processed
+
+2021-08-02 15:16:53,316	Sparkline got outdated second 1627917287, oldest in list 1627917288
+2021-08-02 15:16:53,318	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,319	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,319	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,320	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,320	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,321	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,322	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:53,322	Sparkline got outdated second 1627917287, oldest in list 1627917290
+2021-08-02 15:16:54,160	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/phout_df2BOw.log
+2021-08-02 15:16:54,163	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/phantom_gWhdLz.log
+2021-08-02 15:16:54,166	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/answ_bLbbBf.log
+2021-08-02 15:16:54,169	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/phantom_stdout_stderr_JNE7Uu.log
+2021-08-02 15:16:54,170	File not found to collect: validation_error.yaml
+2021-08-02 15:16:54,178	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/phantom_stat_ix2jss.log
+2021-08-02 15:16:54,180	File already exists: /var/loadtest/logs/2021-08-02_15-12-05.135500/phantom_TJ1lWG.conf
+2021-08-02 15:19:19,447	There were errors:
+df: no file systems processed
+
+2021-08-02 15:19:21,119	There were errors:
+df: no file systems processed
+
+2021-08-02 15:19:31,878	There were errors:
+df: no file systems processed
+
+2021-08-02 15:19:42,711	There were errors:
+df: no file systems processed
+
+2021-08-02 15:19:53,739	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:04,648	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:15,550	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:26,671	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:37,612	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:48,580	There were errors:
+df: no file systems processed
+
+2021-08-02 15:20:59,691	There were errors:
+df: no file systems processed
+
+2021-08-02 15:21:10,779	There were errors:
+df: no file systems processed
+
+2021-08-02 15:21:21,835	There were errors:
+df: no file systems processed
+
+2021-08-02 15:21:24,416	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/phantom_stat_S1RIFW.log
+2021-08-02 15:21:24,421	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/answ_W8p7aW.log
+2021-08-02 15:21:24,425	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/phantom_VN_9ex.conf
+2021-08-02 15:21:24,427	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/phout_Oj1ViL.log
+2021-08-02 15:21:24,431	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/phantom_stdout_stderr_QtN77t.log
+2021-08-02 15:21:24,433	File not found to collect: validation_error.yaml
+2021-08-02 15:21:24,438	File already exists: /var/loadtest/logs/2021-08-02_15-19-18.495048/phantom_3pI3T2.log
+2021-08-02 15:24:15,703	There were errors:
+df: no file systems processed
+
+2021-08-02 15:24:17,623	There were errors:
+df: no file systems processed
+
+2021-08-02 15:24:28,589	There were errors:
+df: no file systems processed
+
+2021-08-02 15:24:39,655	There were errors:
+df: no file systems processed
+
+2021-08-02 15:24:50,615	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:01,606	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:12,568	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:23,558	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:34,531	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:45,591	There were errors:
+df: no file systems processed
+
+2021-08-02 15:25:56,551	There were errors:
+df: no file systems processed
+
+2021-08-02 15:26:07,605	There were errors:
+df: no file systems processed
+
+2021-08-02 15:26:20,029	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/phout_hWzlFu.log
+2021-08-02 15:26:20,032	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/answ_RNRUwh.log
+2021-08-02 15:26:20,034	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/phantom_stdout_stderr_WEfIV6.log
+2021-08-02 15:26:20,037	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/phantom_DqA8kx.log
+2021-08-02 15:26:20,039	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/phantom_8iUpta.conf
+2021-08-02 15:26:20,039	File not found to collect: validation_error.yaml
+2021-08-02 15:26:20,042	File already exists: /var/loadtest/logs/2021-08-02_15-21-49.644162/phantom_stat_VnaDcO.log
+2021-08-02 15:33:45,858	There were errors:
+df: no file systems processed
+
+2021-08-02 15:33:48,007	There were errors:
+df: no file systems processed
+
+2021-08-02 15:33:49,454	Interrupting
+2021-08-02 15:33:51,246	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/phantom_tTsdLp.log
+2021-08-02 15:33:51,248	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/answ_V9M23L.log
+2021-08-02 15:33:51,251	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/phantom_stdout_stderr_ytEZ98.log
+2021-08-02 15:33:51,253	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/phout_r9x5B7.log
+2021-08-02 15:33:51,255	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/phantom_FHWQ0f.conf
+2021-08-02 15:33:51,261	File not found to collect: validation_error.yaml
+2021-08-02 15:33:51,263	File already exists: /var/loadtest/logs/2021-08-02_15-33-44.934717/phantom_stat_A0BSyq.log
+2021-08-02 16:07:29,937	There were errors:
+df: no file systems processed
+
+2021-08-02 16:07:31,935	There were errors:
+df: no file systems processed
+
+2021-08-02 16:07:42,821	There were errors:
+df: no file systems processed
+
+2021-08-02 16:07:53,774	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:04,743	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:15,681	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:26,696	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:37,643	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:48,674	There were errors:
+df: no file systems processed
+
+2021-08-02 16:08:59,592	There were errors:
+df: no file systems processed
+
+2021-08-02 16:09:10,625	There were errors:
+df: no file systems processed
+
+2021-08-02 16:09:21,682	There were errors:
+df: no file systems processed
+
+2021-08-02 16:09:32,801	There were errors:
+df: no file systems processed
+
+2021-08-02 16:09:43,795	There were errors:
+df: no file systems processed
+
+2021-08-02 16:09:54,706	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/phantom_stdout_stderr_2bMOF_.log
+2021-08-02 16:09:54,708	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/phantom_stat_ng60km.log
+2021-08-02 16:09:54,711	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/phantom_kJPbt9.conf
+2021-08-02 16:09:54,713	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/answ_JrIFsh.log
+2021-08-02 16:09:54,715	File not found to collect: validation_error.yaml
+2021-08-02 16:09:54,721	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/phout_44rrUt.log
+2021-08-02 16:09:54,724	File already exists: /var/loadtest/logs/2021-08-02_16-07-28.971030/phantom_hq_wTh.log
+2021-08-02 16:15:06,041	There were errors:
+df: no file systems processed
+
+2021-08-02 16:15:07,672	There were errors:
+df: no file systems processed
+
+2021-08-02 16:15:18,628	There were errors:
+df: no file systems processed
+
+2021-08-02 16:15:29,582	There were errors:
+df: no file systems processed
+
+2021-08-02 16:15:40,522	There were errors:
+df: no file systems processed
+
+2021-08-02 16:15:51,560	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:02,584	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:13,670	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:24,834	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:35,979	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:47,020	There were errors:
+df: no file systems processed
+
+2021-08-02 16:16:58,126	There were errors:
+df: no file systems processed
+
+2021-08-02 16:17:09,271	There were errors:
+df: no file systems processed
+
+2021-08-02 16:17:20,287	There were errors:
+df: no file systems processed
+
+2021-08-02 16:17:29,964	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/phantom_zWK0AX.log
+2021-08-02 16:17:29,968	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/phantom_stat_SfHqAL.log
+2021-08-02 16:17:29,971	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/phout_aL8CAg.log
+2021-08-02 16:17:29,973	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/answ_sCts7r.log
+2021-08-02 16:17:29,976	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/phantom_stdout_stderr_heJ7Q6.log
+2021-08-02 16:17:29,978	File already exists: /var/loadtest/logs/2021-08-02_16-15-05.088784/phantom_OtCHSt.conf
+2021-08-02 16:17:29,979	File not found to collect: validation_error.yaml
+2021-08-02 16:41:31,303	There were errors:
+df: no file systems processed
+
+2021-08-02 16:41:33,432	There were errors:
+df: no file systems processed
+
+2021-08-02 16:41:44,443	There were errors:
+df: no file systems processed
+
+2021-08-02 16:41:55,442	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:06,420	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:17,453	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:28,530	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:39,622	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:50,706	There were errors:
+df: no file systems processed
+
+2021-08-02 16:42:56,652	Interrupting
+2021-08-02 16:42:59,162	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/phantom_stat_rCmcFt.log
+2021-08-02 16:42:59,165	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/phantom_SP8RtF.conf
+2021-08-02 16:42:59,167	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/answ_wA6YwM.log
+2021-08-02 16:42:59,169	File not found to collect: validation_error.yaml
+2021-08-02 16:42:59,171	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/phantom_t4WdYS.log
+2021-08-02 16:42:59,178	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/phantom_stdout_stderr_PFcIPG.log
+2021-08-02 16:42:59,180	File already exists: /var/loadtest/logs/2021-08-02_16-41-30.337816/phout_pezCFY.log
+2021-08-02 16:44:06,227	There were errors:
+df: no file systems processed
+
+2021-08-02 16:44:08,168	There were errors:
+df: no file systems processed
+
+2021-08-02 16:44:19,046	There were errors:
+df: no file systems processed
+
+2021-08-02 16:44:29,926	There were errors:
+df: no file systems processed
+
+2021-08-02 16:44:40,821	There were errors:
+df: no file systems processed
+
+2021-08-02 16:44:51,744	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:02,766	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:13,875	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:24,984	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:36,153	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:47,189	There were errors:
+df: no file systems processed
+
+2021-08-02 16:45:58,133	There were errors:
+df: no file systems processed
+
+2021-08-02 16:46:09,198	There were errors:
+df: no file systems processed
+
+2021-08-02 16:46:16,875	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/phantom_x26ewM.log
+2021-08-02 16:46:16,878	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/phantom_stat_T34Hge.log
+2021-08-02 16:46:16,880	File not found to collect: validation_error.yaml
+2021-08-02 16:46:16,883	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/phantom_stdout_stderr_bIBk5V.log
+2021-08-02 16:46:16,892	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/answ_xUD5Vw.log
+2021-08-02 16:46:16,893	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/phout_zUp8SP.log
+2021-08-02 16:46:16,896	File already exists: /var/loadtest/logs/2021-08-02_16-44-05.234788/phantom_dBT77j.conf
+2021-08-02 16:48:40,561	There were errors:
+df: no file systems processed
+
+2021-08-02 16:48:42,889	There were errors:
+df: no file systems processed
+
+2021-08-02 16:48:53,878	There were errors:
+df: no file systems processed
+
+2021-08-02 16:49:04,850	There were errors:
+df: no file systems processed
+
+2021-08-02 16:49:15,956	There were errors:
+df: no file systems processed
+
+2021-08-02 16:49:27,210	There were errors:
+df: no file systems processed
+
+2021-08-02 16:49:38,520	There were errors:
+df: no file systems processed
+
+2021-08-02 16:49:49,759	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:01,227	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:12,330	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:23,575	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:34,771	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:45,870	There were errors:
+df: no file systems processed
+
+2021-08-02 16:50:58,078	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/phantom_r9i9AW.log
+2021-08-02 16:50:58,080	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/phout_eFzh6F.log
+2021-08-02 16:50:58,083	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/answ_Xk6Pq1.log
+2021-08-02 16:50:58,085	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/phantom_stat_kjVq3Z.log
+2021-08-02 16:50:58,088	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/phantom_n0UyQt.conf
+2021-08-02 16:50:58,093	File not found to collect: validation_error.yaml
+2021-08-02 16:50:58,096	File already exists: /var/loadtest/logs/2021-08-02_16-48-39.600860/phantom_stdout_stderr_4v_kWQ.log
+2021-08-02 16:52:46,300	There were errors:
+df: no file systems processed
+
+2021-08-02 16:52:48,498	There were errors:
+df: no file systems processed
+
+2021-08-02 16:52:59,522	There were errors:
+df: no file systems processed
+
+2021-08-02 16:53:10,474	There were errors:
+df: no file systems processed
+
+2021-08-02 16:53:21,574	There were errors:
+df: no file systems processed
+
+2021-08-02 16:53:32,605	There were errors:
+df: no file systems processed
+
+2021-08-02 16:53:43,656	There were errors:
+df: no file systems processed
+
+2021-08-02 16:53:54,740	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:05,917	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:17,102	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:28,302	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:39,427	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:50,512	There were errors:
+df: no file systems processed
+
+2021-08-02 16:54:55,489	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 16:54:55,491	Network error, will retry in 10s...
+2021-08-02 16:55:05,625	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/answ_vpYIDh.log
+2021-08-02 16:55:05,627	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/phout_OD0JBT.log
+2021-08-02 16:55:05,630	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/phantom_stdout_stderr_8CIvb2.log
+2021-08-02 16:55:05,632	File not found to collect: validation_error.yaml
+2021-08-02 16:55:05,634	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/phantom_haNPO6.conf
+2021-08-02 16:55:05,637	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/phantom_OLjzPW.log
+2021-08-02 16:55:05,647	File already exists: /var/loadtest/logs/2021-08-02_16-52-45.321815/phantom_stat_P19N6c.log
+2021-08-02 18:27:09,706	There were errors:
+df: no file systems processed
+
+2021-08-02 18:27:11,557	There were errors:
+df: no file systems processed
+
+2021-08-02 18:27:22,581	There were errors:
+df: no file systems processed
+
+2021-08-02 18:27:33,536	There were errors:
+df: no file systems processed
+
+2021-08-02 18:27:44,442	There were errors:
+df: no file systems processed
+
+2021-08-02 18:27:49,089	Interrupting
+2021-08-02 18:27:51,109	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/phantom_stat_tYGNeW.log
+2021-08-02 18:27:51,117	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/answ_WUHmp4.log
+2021-08-02 18:27:51,124	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/phantom_4ghoAE.log
+2021-08-02 18:27:51,128	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/phout_6WDgfS.log
+2021-08-02 18:27:51,134	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/phantom_S0ltRR.conf
+2021-08-02 18:27:51,163	File not found to collect: validation_error.yaml
+2021-08-02 18:27:51,188	File already exists: /var/loadtest/logs/2021-08-02_18-27-08.682977/phantom_stdout_stderr_8Wb_2C.log
+2021-08-02 18:30:51,736	There were errors:
+df: no file systems processed
+
+2021-08-02 18:30:53,975	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:04,754	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:15,291	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:25,830	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:36,375	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:46,941	There were errors:
+df: no file systems processed
+
+2021-08-02 18:31:57,548	There were errors:
+df: no file systems processed
+
+2021-08-02 18:32:08,231	There were errors:
+df: no file systems processed
+
+2021-08-02 18:32:18,749	There were errors:
+df: no file systems processed
+
+2021-08-02 18:32:29,284	There were errors:
+df: no file systems processed
+
+2021-08-02 18:32:39,858	There were errors:
+df: no file systems processed
+
+2021-08-02 18:32:50,384	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:00,924	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:11,506	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:22,040	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:32,626	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:43,195	There were errors:
+df: no file systems processed
+
+2021-08-02 18:33:54,031	There were errors:
+df: no file systems processed
+
+2021-08-02 18:34:03,302	Interrupting
+2021-08-02 18:34:05,670	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,671	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,672	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,673	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,674	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,675	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,675	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:05,676	Sparkline got outdated second 1627929064, oldest in list 1627929122
+2021-08-02 18:34:06,402	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/phantom_DhFOUw.conf
+2021-08-02 18:34:06,406	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/phout_yEzZmB.log
+2021-08-02 18:34:06,414	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/phantom_stat_WYkTMn.log
+2021-08-02 18:34:06,424	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/phantom_nROFDL.log
+2021-08-02 18:34:06,444	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/phantom_stdout_stderr_GvfbJx.log
+2021-08-02 18:34:06,449	File not found to collect: validation_error.yaml
+2021-08-02 18:34:06,459	File already exists: /var/loadtest/logs/2021-08-02_18-30-50.741827/answ_8LQowV.log
+2021-08-02 18:37:09,307	There were errors:
+df: no file systems processed
+
+2021-08-02 18:37:11,290	There were errors:
+df: no file systems processed
+
+2021-08-02 18:37:22,040	There were errors:
+df: no file systems processed
+
+2021-08-02 18:37:32,739	There were errors:
+df: no file systems processed
+
+2021-08-02 18:37:43,446	There were errors:
+df: no file systems processed
+
+2021-08-02 18:37:54,269	There were errors:
+df: no file systems processed
+
+2021-08-02 18:38:05,157	There were errors:
+df: no file systems processed
+
+2021-08-02 18:38:15,940	There were errors:
+df: no file systems processed
+
+2021-08-02 18:38:18,308	Interrupting
+2021-08-02 18:38:20,793	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/phout_cYN176.log
+2021-08-02 18:38:20,796	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/phantom_stdout_stderr_qSCbd4.log
+2021-08-02 18:38:20,799	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/answ_Fh6uXb.log
+2021-08-02 18:38:20,802	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/phantom_FeMpVN.conf
+2021-08-02 18:38:20,808	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/phantom_stat_nQnFll.log
+2021-08-02 18:38:20,813	File already exists: /var/loadtest/logs/2021-08-02_18-37-08.336739/phantom_7Dh2su.log
+2021-08-02 18:38:20,822	File not found to collect: validation_error.yaml
+2021-08-02 19:02:06,639	There were errors:
+df: no file systems processed
+
+2021-08-02 19:02:08,415	There were errors:
+df: no file systems processed
+
+2021-08-02 19:02:19,142	There were errors:
+df: no file systems processed
+
+2021-08-02 19:02:29,940	There were errors:
+df: no file systems processed
+
+2021-08-02 19:02:41,246	There were errors:
+df: no file systems processed
+
+2021-08-02 19:02:43,189	Interrupting
+2021-08-02 19:02:45,905	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/phantom_Pf0oN9.log
+2021-08-02 19:02:45,910	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/phantom_rt9U4F.conf
+2021-08-02 19:02:45,915	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/phantom_stdout_stderr_LHo1Gp.log
+2021-08-02 19:02:45,917	File not found to collect: validation_error.yaml
+2021-08-02 19:02:45,929	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/phout_4vjkwI.log
+2021-08-02 19:02:45,939	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/phantom_stat_cjvbL2.log
+2021-08-02 19:02:45,944	File already exists: /var/loadtest/logs/2021-08-02_18-59-36.332672/answ_L7w3wn.log
+2021-08-02 19:04:30,487	There were errors:
+df: no file systems processed
+
+2021-08-02 19:04:32,161	There were errors:
+df: no file systems processed
+
+2021-08-02 19:04:42,975	There were errors:
+df: no file systems processed
+
+2021-08-02 19:04:53,747	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:04,594	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:15,405	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:25,922	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:36,591	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:47,139	There were errors:
+df: no file systems processed
+
+2021-08-02 19:05:57,628	There were errors:
+df: no file systems processed
+
+2021-08-02 19:06:08,155	There were errors:
+df: no file systems processed
+
+2021-08-02 19:06:18,687	There were errors:
+df: no file systems processed
+
+2021-08-02 19:06:29,247	There were errors:
+df: no file systems processed
+
+2021-08-02 19:06:39,768	There were errors:
+df: no file systems processed
+
+2021-08-02 19:06:50,329	There were errors:
+df: no file systems processed
+
+2021-08-02 19:07:00,828	There were errors:
+df: no file systems processed
+
+2021-08-02 19:07:11,352	There were errors:
+df: no file systems processed
+
+2021-08-02 19:07:21,870	There were errors:
+df: no file systems processed
+
+2021-08-02 19:07:32,820	Interrupting
+2021-08-02 19:07:32,846	Test interrupted:
+<type 'exceptions.KeyboardInterrupt'>: 
+<traceback object at 0x7fde98a00c68>
+2021-08-02 19:07:35,058	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/phantom_stat_nTm0nb.log
+2021-08-02 19:07:35,064	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/phantom_stdout_stderr_tLioEl.log
+2021-08-02 19:07:35,065	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/phout_Yetrp1.log
+2021-08-02 19:07:35,068	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/phantom_M10aYU.conf
+2021-08-02 19:07:35,070	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/answ_ELDdam.log
+2021-08-02 19:07:35,072	File already exists: /var/loadtest/logs/2021-08-02_19-04-29.495964/phantom_9rZMmm.log
+2021-08-02 19:07:35,074	File not found to collect: validation_error.yaml
+2021-08-02 19:56:07,709	There were errors:
+df: no file systems processed
+
+2021-08-02 19:56:09,594	There were errors:
+df: no file systems processed
+
+2021-08-02 19:56:20,327	There were errors:
+df: no file systems processed
+
+2021-08-02 19:56:31,027	There were errors:
+df: no file systems processed
+
+2021-08-02 19:56:41,675	There were errors:
+df: no file systems processed
+
+2021-08-02 19:56:52,400	There were errors:
+df: no file systems processed
+
+2021-08-02 19:57:03,192	There were errors:
+df: no file systems processed
+
+2021-08-02 19:57:13,958	There were errors:
+df: no file systems processed
+
+2021-08-02 19:57:24,765	There were errors:
+df: no file systems processed
+
+2021-08-02 19:57:31,526	Interrupting
+2021-08-02 19:57:33,844	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/phantom_b87jPc.log
+2021-08-02 19:57:33,851	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/answ_ZrOfxh.log
+2021-08-02 19:57:33,855	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/phout_47QYb6.log
+2021-08-02 19:57:33,866	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/phantom_stat_It6kwA.log
+2021-08-02 19:57:33,874	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/phantom_stdout_stderr_EPj9fD.log
+2021-08-02 19:57:33,880	File not found to collect: validation_error.yaml
+2021-08-02 19:57:33,909	File already exists: /var/loadtest/logs/2021-08-02_19-53-58.602910/phantom_22i87y.conf
+2021-08-02 20:00:41,685	There were errors:
+df: no file systems processed
+
+2021-08-02 20:00:43,280	There were errors:
+df: no file systems processed
+
+2021-08-02 20:00:54,009	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:04,652	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:15,385	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:26,180	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:36,874	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:47,632	There were errors:
+df: no file systems processed
+
+2021-08-02 20:01:58,430	There were errors:
+df: no file systems processed
+
+2021-08-02 20:02:09,387	There were errors:
+df: no file systems processed
+
+2021-08-02 20:02:10,011	Interrupting
+2021-08-02 20:02:12,484	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/answ_9UsN1L.log
+2021-08-02 20:02:12,486	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/phantom_S_bGcc.conf
+2021-08-02 20:02:12,488	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/phantom_stat_MROdBV.log
+2021-08-02 20:02:12,489	File not found to collect: validation_error.yaml
+2021-08-02 20:02:12,491	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/phantom_stdout_stderr_4SZB3O.log
+2021-08-02 20:02:12,497	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/phantom_aORiOZ.log
+2021-08-02 20:02:12,498	File already exists: /var/loadtest/logs/2021-08-02_20-00-40.697157/phout_mF_gfC.log
+2021-08-02 20:03:20,534	There were errors:
+df: no file systems processed
+
+2021-08-02 20:03:22,222	There were errors:
+df: no file systems processed
+
+2021-08-02 20:03:32,977	There were errors:
+df: no file systems processed
+
+2021-08-02 20:03:43,817	There were errors:
+df: no file systems processed
+
+2021-08-02 20:03:45,225	Interrupting
+2021-08-02 20:03:47,616	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/phantom_Fn6e4r.log
+2021-08-02 20:03:47,621	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/answ_5aCSgd.log
+2021-08-02 20:03:47,624	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/phout_2lW1Zr.log
+2021-08-02 20:03:47,629	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/phantom_stdout_stderr_aqhOT6.log
+2021-08-02 20:03:47,635	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/phantom_stat_haM8fc.log
+2021-08-02 20:03:47,637	File not found to collect: validation_error.yaml
+2021-08-02 20:03:47,648	File already exists: /var/loadtest/logs/2021-08-02_20-03-19.537470/phantom_TK63rm.conf
+2021-08-02 20:04:51,871	There were errors:
+df: no file systems processed
+
+2021-08-02 20:04:53,521	There were errors:
+df: no file systems processed
+
+2021-08-02 20:05:04,393	There were errors:
+df: no file systems processed
+
+2021-08-02 20:05:15,446	There were errors:
+df: no file systems processed
+
+2021-08-02 20:05:26,437	There were errors:
+df: no file systems processed
+
+2021-08-02 20:05:27,109	Interrupting
+2021-08-02 20:05:29,490	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/phantom_uKRAeH.log
+2021-08-02 20:05:29,496	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/answ_u5mEw7.log
+2021-08-02 20:05:29,499	File not found to collect: validation_error.yaml
+2021-08-02 20:05:29,502	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/phout_EqngDR.log
+2021-08-02 20:05:29,539	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/phantom_stat_o9Lal5.log
+2021-08-02 20:05:29,549	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/phantom_stdout_stderr_UDo4UI.log
+2021-08-02 20:05:29,559	File already exists: /var/loadtest/logs/2021-08-02_20-04-50.709156/phantom_Efzi6p.conf
+2021-08-02 20:08:23,965	There were errors:
+df: no file systems processed
+
+2021-08-02 20:08:25,525	There were errors:
+df: no file systems processed
+
+2021-08-02 20:08:36,316	There were errors:
+df: no file systems processed
+
+2021-08-02 20:08:47,287	There were errors:
+df: no file systems processed
+
+2021-08-02 20:08:58,278	There were errors:
+df: no file systems processed
+
+2021-08-02 20:09:09,699	There were errors:
+df: no file systems processed
+
+2021-08-02 20:09:10,840	Interrupting
+2021-08-02 20:09:13,907	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/phantom_WRljUm.log
+2021-08-02 20:09:13,909	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/phantom_stdout_stderr_lFQQC9.log
+2021-08-02 20:09:13,911	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/phout_A4Mqnz.log
+2021-08-02 20:09:13,913	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/phantom_stat_Xk7xGf.log
+2021-08-02 20:09:13,916	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/answ_uQxbAX.log
+2021-08-02 20:09:13,917	File not found to collect: validation_error.yaml
+2021-08-02 20:09:13,925	File already exists: /var/loadtest/logs/2021-08-02_20-08-22.971847/phantom_gwAArr.conf
+2021-08-02 20:13:47,979	There were errors:
+df: no file systems processed
+
+2021-08-02 20:13:49,779	There were errors:
+df: no file systems processed
+
+2021-08-02 20:14:00,640	There were errors:
+df: no file systems processed
+
+2021-08-02 20:14:11,480	There were errors:
+df: no file systems processed
+
+2021-08-02 20:14:22,040	There were errors:
+df: no file systems processed
+
+2021-08-02 20:14:32,236	Interrupting
+2021-08-02 20:14:32,584	Test interrupted:
+<type 'exceptions.KeyboardInterrupt'>: 
+<traceback object at 0x7f35fc322908>
+2021-08-02 20:14:34,447	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/phantom_stat_Yl2VjX.log
+2021-08-02 20:14:34,449	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/phantom_stdout_stderr_2ERYg_.log
+2021-08-02 20:14:34,451	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/phantom_dZi_ym.log
+2021-08-02 20:14:34,453	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/phantom_ouSLpJ.conf
+2021-08-02 20:14:34,454	File not found to collect: validation_error.yaml
+2021-08-02 20:14:34,456	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/answ_wQjwph.log
+2021-08-02 20:14:34,461	File already exists: /var/loadtest/logs/2021-08-02_20-13-46.985257/phout_ChESrc.log
+2021-08-02 20:15:29,797	There were errors:
+df: no file systems processed
+
+2021-08-02 20:15:31,306	There were errors:
+df: no file systems processed
+
+2021-08-02 20:15:41,970	There were errors:
+df: no file systems processed
+
+2021-08-02 20:15:52,760	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:03,766	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:14,564	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:25,318	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:36,181	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:46,923	There were errors:
+df: no file systems processed
+
+2021-08-02 20:16:57,722	There were errors:
+df: no file systems processed
+
+2021-08-02 20:17:02,097	Interrupting
+2021-08-02 20:17:04,273	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/answ_jBLNJm.log
+2021-08-02 20:17:04,275	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/phout_8jJ9Wf.log
+2021-08-02 20:17:04,279	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/phantom_stdout_stderr_hhIzs_.log
+2021-08-02 20:17:04,282	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/phantom_gn2fKI.conf
+2021-08-02 20:17:04,285	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/phantom_stat_nW1nHg.log
+2021-08-02 20:17:04,288	File already exists: /var/loadtest/logs/2021-08-02_20-15-28.859985/phantom_4pqukA.log
+2021-08-02 20:17:04,290	File not found to collect: validation_error.yaml
+2021-08-02 20:22:24,827	There were errors:
+df: no file systems processed
+
+2021-08-02 20:22:26,545	There were errors:
+df: no file systems processed
+
+2021-08-02 20:22:37,519	There were errors:
+df: no file systems processed
+
+2021-08-02 20:22:48,200	There were errors:
+df: no file systems processed
+
+2021-08-02 20:22:59,186	There were errors:
+df: no file systems processed
+
+2021-08-02 20:23:10,020	There were errors:
+df: no file systems processed
+
+2021-08-02 20:23:20,832	There were errors:
+df: no file systems processed
+
+2021-08-02 20:23:31,550	There were errors:
+df: no file systems processed
+
+2021-08-02 20:23:35,761	Interrupting
+2021-08-02 20:23:38,283	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/phantom_stdout_stderr__w4k_s.log
+2021-08-02 20:23:38,290	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/phantom_stat_4Ds89s.log
+2021-08-02 20:23:38,301	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/answ_y9VtBL.log
+2021-08-02 20:23:38,313	File not found to collect: validation_error.yaml
+2021-08-02 20:23:38,319	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/phantom_984VKc.conf
+2021-08-02 20:23:38,328	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/phout_JnZAAh.log
+2021-08-02 20:23:38,333	File already exists: /var/loadtest/logs/2021-08-02_20-22-23.839565/phantom_6TYpYK.log
+2021-08-02 20:26:24,820	There were errors:
+df: no file systems processed
+
+2021-08-02 20:26:26,289	There were errors:
+df: no file systems processed
+
+2021-08-02 20:26:36,864	There were errors:
+df: no file systems processed
+
+2021-08-02 20:26:47,498	There were errors:
+df: no file systems processed
+
+2021-08-02 20:26:58,304	There were errors:
+df: no file systems processed
+
+2021-08-02 20:27:08,983	There were errors:
+df: no file systems processed
+
+2021-08-02 20:27:19,769	There were errors:
+df: no file systems processed
+
+2021-08-02 20:27:23,338	Interrupting
+2021-08-02 20:27:24,967	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/phantom_0kQePG.conf
+2021-08-02 20:27:24,972	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/answ_G48I9S.log
+2021-08-02 20:27:24,975	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/phout__ZKwAo.log
+2021-08-02 20:27:24,981	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/phantom_stdout_stderr_jsRPoR.log
+2021-08-02 20:27:24,984	File not found to collect: validation_error.yaml
+2021-08-02 20:27:25,007	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/phantom_stat_SIsuCg.log
+2021-08-02 20:27:25,011	File already exists: /var/loadtest/logs/2021-08-02_20-26-23.840005/phantom_SLq_9x.log
+2021-08-02 20:32:27,514	There were errors:
+df: no file systems processed
+
+2021-08-02 20:32:29,521	There were errors:
+df: no file systems processed
+
+2021-08-02 20:32:40,095	There were errors:
+df: no file systems processed
+
+2021-08-02 20:32:51,474	There were errors:
+df: no file systems processed
+
+2021-08-02 20:33:02,524	There were errors:
+df: no file systems processed
+
+2021-08-02 20:33:08,198	Interrupting
+2021-08-02 20:33:11,991	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/phantom_stat_4meVyE.log
+2021-08-02 20:33:11,993	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/phout_4r3aS9.log
+2021-08-02 20:33:11,998	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/phantom_stdout_stderr_JHcjON.log
+2021-08-02 20:33:12,002	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/phantom_F6p5nD.conf
+2021-08-02 20:33:12,004	File not found to collect: validation_error.yaml
+2021-08-02 20:33:12,008	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/phantom_tNTZ9P.log
+2021-08-02 20:33:12,050	File already exists: /var/loadtest/logs/2021-08-02_20-32-25.985140/answ_qhdj30.log
+2021-08-02 20:36:59,387	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:00,831	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:11,521	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:22,248	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:33,062	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:44,119	There were errors:
+df: no file systems processed
+
+2021-08-02 20:37:48,679	Interrupting
+2021-08-02 20:37:50,845	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/phout_xkdsiy.log
+2021-08-02 20:37:50,862	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/answ_tOIMpf.log
+2021-08-02 20:37:50,887	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/phantom_bxBTI4.log
+2021-08-02 20:37:50,891	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/phantom_stat_n_JsB3.log
+2021-08-02 20:37:50,892	File not found to collect: validation_error.yaml
+2021-08-02 20:37:50,907	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/phantom_CoJgnT.conf
+2021-08-02 20:37:50,912	File already exists: /var/loadtest/logs/2021-08-02_20-36-58.023103/phantom_stdout_stderr_I7odcZ.log
+2021-08-02 20:39:03,764	There were errors:
+df: no file systems processed
+
+2021-08-02 20:39:05,375	There were errors:
+df: no file systems processed
+
+2021-08-02 20:39:16,146	There were errors:
+df: no file systems processed
+
+2021-08-02 20:39:27,135	There were errors:
+df: no file systems processed
+
+2021-08-02 20:39:38,014	There were errors:
+df: no file systems processed
+
+2021-08-02 20:39:48,409	Interrupting
+2021-08-02 20:39:48,863	Test interrupted:
+<type 'exceptions.KeyboardInterrupt'>: 
+<traceback object at 0x7f8c86fd7ef0>
+2021-08-02 20:39:51,056	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/phantom_stdout_stderr_tXRqoR.log
+2021-08-02 20:39:51,060	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/phantom_stat_5bwTma.log
+2021-08-02 20:39:51,064	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/answ_NNsNdi.log
+2021-08-02 20:39:51,071	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/phantom_qESGVV.log
+2021-08-02 20:39:51,072	File not found to collect: validation_error.yaml
+2021-08-02 20:39:51,075	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/phout_K1QkwV.log
+2021-08-02 20:39:51,110	File already exists: /var/loadtest/logs/2021-08-02_20-39-02.711816/phantom_YAZG7u.conf
+2021-08-02 21:09:12,362	There were errors:
+df: no file systems processed
+
+2021-08-02 21:09:14,110	There were errors:
+df: no file systems processed
+
+2021-08-02 21:09:24,634	There were errors:
+df: no file systems processed
+
+2021-08-02 21:09:35,278	There were errors:
+df: no file systems processed
+
+2021-08-02 21:09:46,112	There were errors:
+df: no file systems processed
+
+2021-08-02 21:09:47,938	Interrupting
+2021-08-02 21:09:49,739	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/answ_kSS5QV.log
+2021-08-02 21:09:49,741	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/phantom_stdout_stderr_9bAeWM.log
+2021-08-02 21:09:49,743	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/phantom_RUws45.log
+2021-08-02 21:09:49,745	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/phantom_stat_tHjS6a.log
+2021-08-02 21:09:49,746	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/phout_iY_r29.log
+2021-08-02 21:09:49,748	File already exists: /var/loadtest/logs/2021-08-02_21-09-10.970962/phantom_iN1I5N.conf
+2021-08-02 21:09:49,754	File not found to collect: validation_error.yaml
+2021-08-02 21:10:43,722	There were errors:
+df: no file systems processed
+
+2021-08-02 21:10:45,555	There were errors:
+df: no file systems processed
+
+2021-08-02 21:10:56,100	There were errors:
+df: no file systems processed
+
+2021-08-02 21:11:06,785	There were errors:
+df: no file systems processed
+
+2021-08-02 21:11:17,991	There were errors:
+df: no file systems processed
+
+2021-08-02 21:11:28,863	There were errors:
+df: no file systems processed
+
+2021-08-02 21:11:39,824	There were errors:
+df: no file systems processed
+
+2021-08-02 21:11:49,253	Interrupting
+2021-08-02 21:11:51,137	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/phantom_stdout_stderr_7OaXAh.log
+2021-08-02 21:11:51,139	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/phout_h51c8f.log
+2021-08-02 21:11:51,141	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/phantom_nM5uR2.log
+2021-08-02 21:11:51,144	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/phantom_UeK_sN.conf
+2021-08-02 21:11:51,146	File not found to collect: validation_error.yaml
+2021-08-02 21:11:51,155	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/answ_fK2AsL.log
+2021-08-02 21:11:51,157	File already exists: /var/loadtest/logs/2021-08-02_21-10-42.769132/phantom_stat_NFnHYT.log
+2021-08-02 21:12:40,163	There were errors:
+df: no file systems processed
+
+2021-08-02 21:12:41,905	There were errors:
+df: no file systems processed
+
+2021-08-02 21:12:52,462	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:03,111	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:13,902	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:24,778	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:35,701	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:46,731	There were errors:
+df: no file systems processed
+
+2021-08-02 21:13:57,819	There were errors:
+df: no file systems processed
+
+2021-08-02 21:14:09,095	There were errors:
+df: no file systems processed
+
+2021-08-02 21:14:20,114	There were errors:
+df: no file systems processed
+
+2021-08-02 21:14:31,317	There were errors:
+df: no file systems processed
+
+2021-08-02 21:14:42,013	There were errors:
+df: no file systems processed
+
+2021-08-02 21:14:45,960	Interrupting
+2021-08-02 21:14:48,179	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/phantom_WtIg2F.log
+2021-08-02 21:14:48,182	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/phantom_stdout_stderr_itu9a7.log
+2021-08-02 21:14:48,185	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/answ_J05yD3.log
+2021-08-02 21:14:48,187	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/phantom_stat_rHWn_P.log
+2021-08-02 21:14:48,188	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/phout_gCgrT7.log
+2021-08-02 21:14:48,193	File not found to collect: validation_error.yaml
+2021-08-02 21:14:48,195	File already exists: /var/loadtest/logs/2021-08-02_21-12-39.054169/phantom_wkmvQa.conf
+2021-08-02 21:15:43,618	There were errors:
+df: no file systems processed
+
+2021-08-02 21:15:45,228	There were errors:
+df: no file systems processed
+
+2021-08-02 21:15:55,859	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:06,624	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:17,349	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:28,282	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:39,239	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:50,326	There were errors:
+df: no file systems processed
+
+2021-08-02 21:16:57,196	Interrupting
+2021-08-02 21:16:58,955	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/phantom_63SZ2n.conf
+2021-08-02 21:16:58,956	File not found to collect: validation_error.yaml
+2021-08-02 21:16:58,957	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/phout_xICzsz.log
+2021-08-02 21:16:58,960	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/answ_rO7EZy.log
+2021-08-02 21:16:58,961	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/phantom_stat_UKMtbl.log
+2021-08-02 21:16:58,968	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/phantom_aG24zT.log
+2021-08-02 21:16:58,970	File already exists: /var/loadtest/logs/2021-08-02_21-15-42.690725/phantom_stdout_stderr_DbFMOG.log
+2021-08-02 21:18:38,650	There were errors:
+df: no file systems processed
+
+2021-08-02 21:18:40,144	There were errors:
+df: no file systems processed
+
+2021-08-02 21:18:50,636	There were errors:
+df: no file systems processed
+
+2021-08-02 21:19:01,489	There were errors:
+df: no file systems processed
+
+2021-08-02 21:19:04,158	Interrupting
+2021-08-02 21:19:06,341	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/phantom_6Ul39n.log
+2021-08-02 21:19:06,344	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/phantom_stat_7861jy.log
+2021-08-02 21:19:06,345	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/phout_u1bxZQ.log
+2021-08-02 21:19:06,346	File not found to collect: validation_error.yaml
+2021-08-02 21:19:06,348	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/phantom_stdout_stderr_773VgU.log
+2021-08-02 21:19:06,354	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/phantom_oxev2D.conf
+2021-08-02 21:19:06,357	File already exists: /var/loadtest/logs/2021-08-02_21-18-37.689380/answ_mJZRUe.log
+2021-08-02 21:23:02,424	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:04,188	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:14,793	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:25,400	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:36,138	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:47,157	There were errors:
+df: no file systems processed
+
+2021-08-02 21:23:58,084	There were errors:
+df: no file systems processed
+
+2021-08-02 21:24:09,251	There were errors:
+df: no file systems processed
+
+2021-08-02 21:24:20,319	There were errors:
+df: no file systems processed
+
+2021-08-02 21:24:31,573	There were errors:
+df: no file systems processed
+
+2021-08-02 21:24:42,814	There were errors:
+df: no file systems processed
+
+2021-08-02 21:24:53,901	There were errors:
+df: no file systems processed
+
+2021-08-02 21:25:04,948	There were errors:
+df: no file systems processed
+
+2021-08-02 21:25:16,201	There were errors:
+df: no file systems processed
+
+2021-08-02 21:25:20,746	Interrupting
+2021-08-02 21:25:22,070	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/phantom_AhfzLy.conf
+2021-08-02 21:25:22,080	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/phantom_stat_njGnyg.log
+2021-08-02 21:25:22,082	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/phout_SOgIHY.log
+2021-08-02 21:25:22,089	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/answ_jZwNL1.log
+2021-08-02 21:25:22,094	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/phantom_stdout_stderr_LhzrZr.log
+2021-08-02 21:25:22,133	File already exists: /var/loadtest/logs/2021-08-02_21-23-01.456993/phantom_YBQnbr.log
+2021-08-02 21:25:22,142	File not found to collect: validation_error.yaml
+2021-08-02 21:29:37,175	There were errors:
+df: no file systems processed
+
+2021-08-02 21:29:38,779	There were errors:
+df: no file systems processed
+
+2021-08-02 21:29:49,398	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:00,003	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:10,774	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:21,593	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:32,532	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:43,593	There were errors:
+df: no file systems processed
+
+2021-08-02 21:30:54,627	There were errors:
+df: no file systems processed
+
+2021-08-02 21:31:05,724	There were errors:
+df: no file systems processed
+
+2021-08-02 21:31:16,791	There were errors:
+df: no file systems processed
+
+2021-08-02 21:31:28,008	There were errors:
+df: no file systems processed
+
+2021-08-02 21:31:37,808	Interrupting
+2021-08-02 21:31:40,097	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:31:40,844	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/phantom_JMrXWR.log
+2021-08-02 21:31:40,851	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/phantom_stdout_stderr_VZzFUJ.log
+2021-08-02 21:31:40,855	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/phantom_M8C7d6.conf
+2021-08-02 21:31:40,857	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/phout_RP7sQC.log
+2021-08-02 21:31:40,861	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/answ_zwiDBc.log
+2021-08-02 21:31:40,863	File not found to collect: validation_error.yaml
+2021-08-02 21:31:40,876	File already exists: /var/loadtest/logs/2021-08-02_21-29-36.187276/phantom_stat_8kiXNG.log
+2021-08-02 21:34:31,662	There were errors:
+df: no file systems processed
+
+2021-08-02 21:34:33,475	There were errors:
+df: no file systems processed
+
+2021-08-02 21:34:44,151	There were errors:
+df: no file systems processed
+
+2021-08-02 21:34:54,796	There were errors:
+df: no file systems processed
+
+2021-08-02 21:35:05,520	There were errors:
+df: no file systems processed
+
+2021-08-02 21:35:16,419	There were errors:
+df: no file systems processed
+
+2021-08-02 21:35:27,277	There were errors:
+df: no file systems processed
+
+2021-08-02 21:35:38,250	There were errors:
+df: no file systems processed
+
+2021-08-02 21:35:42,234	Interrupting
+2021-08-02 21:35:45,091	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/phantom_stdout_stderr_7dX_6r.log
+2021-08-02 21:35:45,093	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/phantom_stat_lidRAr.log
+2021-08-02 21:35:45,095	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/answ_lPuxUc.log
+2021-08-02 21:35:45,100	File not found to collect: validation_error.yaml
+2021-08-02 21:35:45,101	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/phout_fA9IaX.log
+2021-08-02 21:35:45,104	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/phantom_UeFLK0.conf
+2021-08-02 21:35:45,106	File already exists: /var/loadtest/logs/2021-08-02_21-34-30.721594/phantom_UVHNWW.log
+2021-08-02 21:37:44,688	There were errors:
+df: no file systems processed
+
+2021-08-02 21:37:46,170	There were errors:
+df: no file systems processed
+
+2021-08-02 21:37:56,787	There were errors:
+df: no file systems processed
+
+2021-08-02 21:38:07,445	There were errors:
+df: no file systems processed
+
+2021-08-02 21:38:18,312	There were errors:
+df: no file systems processed
+
+2021-08-02 21:38:29,270	There were errors:
+df: no file systems processed
+
+2021-08-02 21:38:40,229	There were errors:
+df: no file systems processed
+
+2021-08-02 21:38:51,310	There were errors:
+df: no file systems processed
+
+2021-08-02 21:39:02,410	There were errors:
+df: no file systems processed
+
+2021-08-02 21:39:13,442	There were errors:
+df: no file systems processed
+
+2021-08-02 21:39:24,502	There were errors:
+df: no file systems processed
+
+2021-08-02 21:39:35,628	There were errors:
+df: no file systems processed
+
+2021-08-02 21:39:39,357	Interrupting
+2021-08-02 21:39:41,705	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:39:42,030	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:39:42,377	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/phantom_stat_2Scg3f.log
+2021-08-02 21:39:42,381	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/phantom_pKP5Iq.conf
+2021-08-02 21:39:42,385	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/phantom_njT3B8.log
+2021-08-02 21:39:42,390	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/phantom_stdout_stderr_wFG6zY.log
+2021-08-02 21:39:42,392	File not found to collect: validation_error.yaml
+2021-08-02 21:39:42,414	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/answ_HYRgNG.log
+2021-08-02 21:39:42,416	File already exists: /var/loadtest/logs/2021-08-02_21-37-43.725625/phout_q7sgVM.log
+2021-08-02 21:41:34,016	There were errors:
+df: no file systems processed
+
+2021-08-02 21:41:35,645	There were errors:
+df: no file systems processed
+
+2021-08-02 21:41:46,211	There were errors:
+df: no file systems processed
+
+2021-08-02 21:41:56,838	There were errors:
+df: no file systems processed
+
+2021-08-02 21:42:07,540	There were errors:
+df: no file systems processed
+
+2021-08-02 21:42:18,435	There were errors:
+df: no file systems processed
+
+2021-08-02 21:42:29,406	There were errors:
+df: no file systems processed
+
+2021-08-02 21:42:40,395	There were errors:
+df: no file systems processed
+
+2021-08-02 21:42:51,398	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:02,507	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:13,575	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:24,624	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:35,708	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:46,641	There were errors:
+df: no file systems processed
+
+2021-08-02 21:43:48,321	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:43:48,322	Network error, will retry in 10s...
+2021-08-02 21:43:58,513	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:43:58,514	Network error, will retry in 10s...
+2021-08-02 21:44:08,724	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/phantom_L2qelm.conf
+2021-08-02 21:44:08,729	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/answ_97EqjF.log
+2021-08-02 21:44:08,735	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/phantom_stdout_stderr_BN7KXS.log
+2021-08-02 21:44:08,739	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/phantom_stat_ZBX0ad.log
+2021-08-02 21:44:08,746	File not found to collect: validation_error.yaml
+2021-08-02 21:44:08,750	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/phantom_fW2IS1.log
+2021-08-02 21:44:08,752	File already exists: /var/loadtest/logs/2021-08-02_21-41-33.063423/phout_mUDcUa.log
+2021-08-02 21:48:32,938	There were errors:
+df: no file systems processed
+
+2021-08-02 21:48:34,702	There were errors:
+df: no file systems processed
+
+2021-08-02 21:48:40,052	Interrupting
+2021-08-02 21:48:42,301	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/phout_L15T99.log
+2021-08-02 21:48:42,303	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/phantom_stdout_stderr__hJb4U.log
+2021-08-02 21:48:42,305	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/phantom_OIDbid.log
+2021-08-02 21:48:42,307	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/answ_1RrrGt.log
+2021-08-02 21:48:42,309	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/phantom_stat_SCMUQi.log
+2021-08-02 21:48:42,310	File not found to collect: validation_error.yaml
+2021-08-02 21:48:42,316	File already exists: /var/loadtest/logs/2021-08-02_21-48-31.950632/phantom_D5HBxG.conf
+2021-08-02 21:50:33,367	There were errors:
+df: no file systems processed
+
+2021-08-02 21:50:34,735	There were errors:
+df: no file systems processed
+
+2021-08-02 21:50:37,733	Interrupting
+2021-08-02 21:50:40,342	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/phout_lTbIFA.log
+2021-08-02 21:50:40,345	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/answ_99QHur.log
+2021-08-02 21:50:40,348	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/phantom_M5PyDy.log
+2021-08-02 21:50:40,349	File not found to collect: validation_error.yaml
+2021-08-02 21:50:40,351	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/phantom_stat_CR18Q2.log
+2021-08-02 21:50:40,359	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/phantom_stdout_stderr_r3vbMD.log
+2021-08-02 21:50:40,361	File already exists: /var/loadtest/logs/2021-08-02_21-50-32.349615/phantom_JuRlG8.conf
+2021-08-02 21:50:45,621	There were errors:
+df: no file systems processed
+
+2021-08-02 21:50:47,624	There were errors:
+df: no file systems processed
+
+2021-08-02 21:50:58,236	There were errors:
+df: no file systems processed
+
+2021-08-02 21:51:08,894	There were errors:
+df: no file systems processed
+
+2021-08-02 21:51:19,793	There were errors:
+df: no file systems processed
+
+2021-08-02 21:51:30,690	There were errors:
+df: no file systems processed
+
+2021-08-02 21:51:41,653	There were errors:
+df: no file systems processed
+
+2021-08-02 21:51:52,670	There were errors:
+df: no file systems processed
+
+2021-08-02 21:52:03,726	There were errors:
+df: no file systems processed
+
+2021-08-02 21:52:14,849	There were errors:
+df: no file systems processed
+
+2021-08-02 21:52:16,479	Interrupting
+2021-08-02 21:52:18,136	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:52:18,346	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:52:18,640	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/phantom_gjEXk1.log
+2021-08-02 21:52:18,643	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/phout_jHIbBE.log
+2021-08-02 21:52:18,650	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/answ_MhQd7g.log
+2021-08-02 21:52:18,654	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/phantom_xo58pE.conf
+2021-08-02 21:52:18,658	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/phantom_stat_p5T4xR.log
+2021-08-02 21:52:18,661	File not found to collect: validation_error.yaml
+2021-08-02 21:52:18,665	File already exists: /var/loadtest/logs/2021-08-02_21-50-44.616784/phantom_stdout_stderr_i0LfnS.log
+2021-08-02 21:53:00,310	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:02,139	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:12,717	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:23,326	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:34,190	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:45,076	There were errors:
+df: no file systems processed
+
+2021-08-02 21:53:56,069	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:07,214	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:18,468	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:29,483	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:40,553	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:51,658	There were errors:
+df: no file systems processed
+
+2021-08-02 21:54:56,669	Interrupting
+2021-08-02 21:54:58,880	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:54:59,240	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 21:54:59,479	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/phout_zJ3IpQ.log
+2021-08-02 21:54:59,486	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/phantom_TpH8DU.conf
+2021-08-02 21:54:59,491	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/answ_PhGEmb.log
+2021-08-02 21:54:59,495	File not found to collect: validation_error.yaml
+2021-08-02 21:54:59,498	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/phantom_VLuRhE.log
+2021-08-02 21:54:59,510	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/phantom_stdout_stderr_6np6uh.log
+2021-08-02 21:54:59,514	File already exists: /var/loadtest/logs/2021-08-02_21-52-59.312092/phantom_stat_vGfQfI.log
+2021-08-02 21:59:07,785	There were errors:
+df: no file systems processed
+
+2021-08-02 21:59:09,397	There were errors:
+df: no file systems processed
+
+2021-08-02 21:59:19,929	There were errors:
+df: no file systems processed
+
+2021-08-02 21:59:30,532	There were errors:
+df: no file systems processed
+
+2021-08-02 21:59:41,303	There were errors:
+df: no file systems processed
+
+2021-08-02 21:59:52,209	There were errors:
+df: no file systems processed
+
+2021-08-02 22:00:03,404	There were errors:
+df: no file systems processed
+
+2021-08-02 22:00:14,453	There were errors:
+df: no file systems processed
+
+2021-08-02 22:00:25,487	There were errors:
+df: no file systems processed
+
+2021-08-02 22:00:36,566	There were errors:
+df: no file systems processed
+
+2021-08-02 22:00:46,868	Interrupting
+2021-08-02 22:00:47,693	Test interrupted:
+<type 'exceptions.KeyboardInterrupt'>: 
+<traceback object at 0x7fc5b00038c0>
+2021-08-02 22:00:48,809	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:00:49,069	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:00:49,269	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/phantom_vXmOyy.log
+2021-08-02 22:00:49,273	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/phantom_guFYTv.conf
+2021-08-02 22:00:49,276	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/phantom_stdout_stderr_JGQcWy.log
+2021-08-02 22:00:49,278	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/phout_je1Flg.log
+2021-08-02 22:00:49,283	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/answ_RI2Brp.log
+2021-08-02 22:00:49,285	File not found to collect: validation_error.yaml
+2021-08-02 22:00:49,304	File already exists: /var/loadtest/logs/2021-08-02_21-59-06.810238/phantom_stat_2fNWyS.log
+2021-08-02 22:03:06,967	There were errors:
+df: no file systems processed
+
+2021-08-02 22:03:08,656	There were errors:
+df: no file systems processed
+
+2021-08-02 22:03:19,198	There were errors:
+df: no file systems processed
+
+2021-08-02 22:03:29,860	There were errors:
+df: no file systems processed
+
+2021-08-02 22:03:40,552	There were errors:
+df: no file systems processed
+
+2021-08-02 22:03:51,419	There were errors:
+df: no file systems processed
+
+2021-08-02 22:04:02,434	There were errors:
+df: no file systems processed
+
+2021-08-02 22:04:13,439	There were errors:
+df: no file systems processed
+
+2021-08-02 22:04:24,532	There were errors:
+df: no file systems processed
+
+2021-08-02 22:04:35,949	There were errors:
+df: no file systems processed
+
+2021-08-02 22:04:40,557	Interrupting
+2021-08-02 22:04:43,445	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/phantom_stdout_stderr_S0Z9j6.log
+2021-08-02 22:04:43,451	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/phantom_QsPNeE.conf
+2021-08-02 22:04:43,454	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/phantom_stat_bzmKUh.log
+2021-08-02 22:04:43,457	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/phout_Om8yEP.log
+2021-08-02 22:04:43,462	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/answ_o5hgKd.log
+2021-08-02 22:04:43,464	File not found to collect: validation_error.yaml
+2021-08-02 22:04:43,477	File already exists: /var/loadtest/logs/2021-08-02_22-03-06.008498/phantom_BnNjkl.log
+2021-08-02 22:06:15,169	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:16,784	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:27,337	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:28,338	Interrupting
+2021-08-02 22:06:30,625	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/phantom_C7a3T3.log
+2021-08-02 22:06:30,627	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/phantom_bq8Cic.conf
+2021-08-02 22:06:30,629	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/answ_gScEwn.log
+2021-08-02 22:06:30,631	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/phantom_stat_LeT8OF.log
+2021-08-02 22:06:30,640	File not found to collect: validation_error.yaml
+2021-08-02 22:06:30,642	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/phantom_stdout_stderr_H3TaDo.log
+2021-08-02 22:06:30,643	File already exists: /var/loadtest/logs/2021-08-02_22-06-14.172796/phout_CdchhB.log
+2021-08-02 22:06:41,375	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:42,955	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:44,874	Failed to import _strptime because the import lockis held by another thread.
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/netort/data_processing.py", line 36, in run
+    for item in self.source:
+  File "/usr/local/lib/python2.7/dist-packages/netort/data_processing.py", line 104, in __iter__
+    for chunk in self.source:
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/aggregator/aggregator.py", line 123, in __iter__
+    for chunk in self.source:
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/reader.py", line 162, in __iter__
+    yield self._read_stat_data(stat_file)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/reader.py", line 145, in _read_stat_data
+    return self._format_chunk(ready_chunk)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/reader.py", line 152, in _format_chunk
+    return list(itt.chain(*(self._decode_stat_data(chunk) for chunk in chunks)))
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/Phantom/reader.py", line 121, in _decode_stat_data
+    date_str.split(".")[0], '%Y-%m-%d %H:%M:%S')
+ImportError: Failed to import _strptime because the import lockis held by another thread.
+2021-08-02 22:06:46,067	Interrupting
+2021-08-02 22:06:48,351	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/phantom_0EXjuV.log
+2021-08-02 22:06:48,354	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/answ_rs3OpD.log
+2021-08-02 22:06:48,356	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/phantom_2Mw5N1.conf
+2021-08-02 22:06:48,358	File not found to collect: validation_error.yaml
+2021-08-02 22:06:48,360	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/phantom_stat_0S_H5d.log
+2021-08-02 22:06:48,362	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/phout_e3y2WQ.log
+2021-08-02 22:06:48,365	File already exists: /var/loadtest/logs/2021-08-02_22-06-40.377347/phantom_stdout_stderr_9Ho4hq.log
+2021-08-02 22:06:53,147	There were errors:
+df: no file systems processed
+
+2021-08-02 22:06:54,524	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:05,193	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:15,867	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:26,643	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:37,445	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:48,374	There were errors:
+df: no file systems processed
+
+2021-08-02 22:07:59,359	There were errors:
+df: no file systems processed
+
+2021-08-02 22:08:10,618	There were errors:
+df: no file systems processed
+
+2021-08-02 22:08:21,748	There were errors:
+df: no file systems processed
+
+2021-08-02 22:08:32,864	There were errors:
+df: no file systems processed
+
+2021-08-02 22:08:34,110	Interrupting
+2021-08-02 22:08:36,583	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:08:36,852	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/phout_qbgBR2.log
+2021-08-02 22:08:36,864	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/phantom_stdout_stderr_LYZvRp.log
+2021-08-02 22:08:36,872	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/answ_QIlv_v.log
+2021-08-02 22:08:36,873	File not found to collect: validation_error.yaml
+2021-08-02 22:08:36,878	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/phantom_pBfMTU.log
+2021-08-02 22:08:36,894	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/phantom_JLULrZ.conf
+2021-08-02 22:08:36,899	File already exists: /var/loadtest/logs/2021-08-02_22-06-52.209852/phantom_stat_GBwVPk.log
+2021-08-02 22:11:34,103	There were errors:
+df: no file systems processed
+
+2021-08-02 22:11:35,436	There were errors:
+df: no file systems processed
+
+2021-08-02 22:11:45,996	There were errors:
+df: no file systems processed
+
+2021-08-02 22:11:56,664	There were errors:
+df: no file systems processed
+
+2021-08-02 22:12:07,634	There were errors:
+df: no file systems processed
+
+2021-08-02 22:12:18,631	There were errors:
+df: no file systems processed
+
+2021-08-02 22:12:29,534	There were errors:
+df: no file systems processed
+
+2021-08-02 22:12:40,126	There were errors:
+df: no file systems processed
+
+2021-08-02 22:12:51,001	There were errors:
+df: no file systems processed
+
+2021-08-02 22:13:00,307	Interrupting
+2021-08-02 22:13:02,455	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/phantom_stdout_stderr_j85PDC.log
+2021-08-02 22:13:02,463	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/phantom_stat_R7CHgG.log
+2021-08-02 22:13:02,472	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/phantom_1LBHu6.log
+2021-08-02 22:13:02,478	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/answ_ebXZ9v.log
+2021-08-02 22:13:02,481	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/phout_fZ4f0y.log
+2021-08-02 22:13:02,482	File not found to collect: validation_error.yaml
+2021-08-02 22:13:02,492	File already exists: /var/loadtest/logs/2021-08-02_22-11-33.203182/phantom_bT60TK.conf
+2021-08-02 22:13:30,185	There were errors:
+df: no file systems processed
+
+2021-08-02 22:13:32,133	There were errors:
+df: no file systems processed
+
+2021-08-02 22:13:42,680	There were errors:
+df: no file systems processed
+
+2021-08-02 22:13:53,336	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:04,020	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:14,948	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:25,815	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:36,781	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:47,750	There were errors:
+df: no file systems processed
+
+2021-08-02 22:14:58,803	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:09,767	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:20,731	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:32,037	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:43,068	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:54,375	There were errors:
+df: no file systems processed
+
+2021-08-02 22:15:59,467	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:15:59,468	Network error, will retry in 10s...
+2021-08-02 22:16:09,640	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:16:09,641	Network error, will retry in 10s...
+2021-08-02 22:16:19,835	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/phantom_0tk9a1.log
+2021-08-02 22:16:19,840	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/phantom_stat_dzHxDz.log
+2021-08-02 22:16:19,845	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/answ_UYeQUP.log
+2021-08-02 22:16:19,847	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/phout_UANlJ9.log
+2021-08-02 22:16:19,851	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/phantom_stdout_stderr_5UF9Hb.log
+2021-08-02 22:16:19,855	File not found to collect: validation_error.yaml
+2021-08-02 22:16:19,860	File already exists: /var/loadtest/logs/2021-08-02_22-13-29.250335/phantom_kpukT2.conf
+2021-08-02 22:19:47,816	There were errors:
+df: no file systems processed
+
+2021-08-02 22:19:49,378	There were errors:
+df: no file systems processed
+
+2021-08-02 22:19:59,977	There were errors:
+df: no file systems processed
+
+2021-08-02 22:20:10,524	There were errors:
+df: no file systems processed
+
+2021-08-02 22:20:21,250	There were errors:
+df: no file systems processed
+
+2021-08-02 22:20:32,256	There were errors:
+df: no file systems processed
+
+2021-08-02 22:20:43,224	There were errors:
+df: no file systems processed
+
+2021-08-02 22:20:54,534	There were errors:
+df: no file systems processed
+
+2021-08-02 22:21:05,542	There were errors:
+df: no file systems processed
+
+2021-08-02 22:21:15,209	Interrupting
+2021-08-02 22:21:16,864	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,869	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,870	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,871	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,872	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,872	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,873	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,874	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,875	Sparkline got outdated second 1627942788, oldest in list 1627942789
+2021-08-02 22:21:16,935	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:21:17,084	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:21:17,244	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/phantom_w53Rph.conf
+2021-08-02 22:21:17,248	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/phantom_5jZmK2.log
+2021-08-02 22:21:17,253	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/phantom_stdout_stderr_1rsCVF.log
+2021-08-02 22:21:17,263	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/phantom_stat__ZqCUD.log
+2021-08-02 22:21:17,265	File not found to collect: validation_error.yaml
+2021-08-02 22:21:17,269	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/answ_RjCzlb.log
+2021-08-02 22:21:17,272	File already exists: /var/loadtest/logs/2021-08-02_22-19-46.810205/phout_ZAAjjC.log
+2021-08-02 22:24:18,784	There were errors:
+df: no file systems processed
+
+2021-08-02 22:24:20,480	There were errors:
+df: no file systems processed
+
+2021-08-02 22:24:31,057	There were errors:
+df: no file systems processed
+
+2021-08-02 22:24:41,689	There were errors:
+df: no file systems processed
+
+2021-08-02 22:24:52,462	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:03,361	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:14,541	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:25,570	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:36,589	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:47,749	There were errors:
+df: no file systems processed
+
+2021-08-02 22:25:57,608	Interrupting
+2021-08-02 22:25:59,173	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:25:59,685	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:25:59,944	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/phantom_1uAnGY.conf
+2021-08-02 22:25:59,948	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/phout_3lJ5g7.log
+2021-08-02 22:25:59,956	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/phantom_stat_44zPHz.log
+2021-08-02 22:25:59,960	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/answ__qx_qQ.log
+2021-08-02 22:25:59,963	File not found to collect: validation_error.yaml
+2021-08-02 22:25:59,971	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/phantom_Q6Ute4.log
+2021-08-02 22:25:59,986	File already exists: /var/loadtest/logs/2021-08-02_22-24-17.841209/phantom_stdout_stderr_JFQWNu.log
+2021-08-02 22:31:55,640	There were errors:
+df: no file systems processed
+
+2021-08-02 22:31:57,148	There were errors:
+df: no file systems processed
+
+2021-08-02 22:32:07,728	There were errors:
+df: no file systems processed
+
+2021-08-02 22:32:18,324	There were errors:
+df: no file systems processed
+
+2021-08-02 22:32:29,138	There were errors:
+df: no file systems processed
+
+2021-08-02 22:32:39,995	There were errors:
+df: no file systems processed
+
+2021-08-02 22:32:50,867	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:02,028	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:13,163	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:24,730	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:35,854	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:46,918	There were errors:
+df: no file systems processed
+
+2021-08-02 22:33:58,147	There were errors:
+df: no file systems processed
+
+2021-08-02 22:34:09,309	There were errors:
+df: no file systems processed
+
+2021-08-02 22:34:20,009	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+ConnectionError: ('Connection aborted.', BadStatusLine("''",))
+
+2021-08-02 22:34:20,015	Network error, will retry in 10s...
+2021-08-02 22:34:30,802	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/phantom_dIJ6zu.log
+2021-08-02 22:34:30,805	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/phout_BiwsTk.log
+2021-08-02 22:34:30,812	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/phantom_kkYL2p.conf
+2021-08-02 22:34:30,820	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/answ_x35ubm.log
+2021-08-02 22:34:30,826	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/phantom_stat_k2H4xb.log
+2021-08-02 22:34:30,849	File not found to collect: validation_error.yaml
+2021-08-02 22:34:30,855	File already exists: /var/loadtest/logs/2021-08-02_22-31-54.670093/phantom_stdout_stderr_DaQtnF.log
+2021-08-02 22:36:59,442	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:01,413	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:11,954	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:22,532	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:33,180	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:43,895	There were errors:
+df: no file systems processed
+
+2021-08-02 22:37:54,713	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:05,612	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:16,558	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:27,514	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:38,639	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:49,722	There were errors:
+df: no file systems processed
+
+2021-08-02 22:38:55,547	Interrupting
+2021-08-02 22:38:57,731	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/phantom_WGBKPy.conf
+2021-08-02 22:38:57,733	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/answ_AsNzFj.log
+2021-08-02 22:38:57,734	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/phout_jtJKn4.log
+2021-08-02 22:38:57,735	File not found to collect: validation_error.yaml
+2021-08-02 22:38:57,737	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/phantom_stdout_stderr_5obXye.log
+2021-08-02 22:38:57,739	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/phantom_cmF_vL.log
+2021-08-02 22:38:57,745	File already exists: /var/loadtest/logs/2021-08-02_22-36-58.475545/phantom_stat_bm4Uwk.log
+2021-08-02 22:52:08,343	There were errors:
+df: no file systems processed
+
+2021-08-02 22:52:09,889	There were errors:
+df: no file systems processed
+
+2021-08-02 22:52:20,878	There were errors:
+df: no file systems processed
+
+2021-08-02 22:52:31,566	There were errors:
+df: no file systems processed
+
+2021-08-02 22:52:42,257	There were errors:
+df: no file systems processed
+
+2021-08-02 22:52:57,673	There were errors:
+df: no file systems processed
+
+2021-08-02 22:53:08,941	There were errors:
+df: no file systems processed
+
+2021-08-02 22:53:20,069	There were errors:
+df: no file systems processed
+
+2021-08-02 22:53:34,548	There were errors:
+df: no file systems processed
+
+2021-08-02 22:53:45,896	There were errors:
+df: no file systems processed
+
+2021-08-02 22:53:56,889	There were errors:
+df: no file systems processed
+
+2021-08-02 22:54:07,947	There were errors:
+df: no file systems processed
+
+2021-08-02 22:54:19,001	There were errors:
+df: no file systems processed
+
+2021-08-02 22:54:30,120	There were errors:
+df: no file systems processed
+
+2021-08-02 22:54:34,093	Interrupting
+2021-08-02 22:54:36,912	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,913	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,914	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,914	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,915	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,916	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,916	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,917	Sparkline got outdated second 1627944730, oldest in list 1627944753
+2021-08-02 22:54:36,920	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,920	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,921	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,921	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,922	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,922	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,923	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:36,924	Sparkline got outdated second 1627944741, oldest in list 1627944753
+2021-08-02 22:54:37,245	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/phantom_0R2_6S.log
+2021-08-02 22:54:37,247	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/phantom_stat_cOdwzq.log
+2021-08-02 22:54:37,249	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/answ_NG63BX.log
+2021-08-02 22:54:37,252	File not found to collect: validation_error.yaml
+2021-08-02 22:54:37,254	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/phantom_stdout_stderr_0J6dSm.log
+2021-08-02 22:54:37,271	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/phantom_Of8gNO.conf
+2021-08-02 22:54:37,272	File already exists: /var/loadtest/logs/2021-08-02_22-52-07.410987/phout_3WN5Ju.log
+2021-08-02 22:55:54,388	There were errors:
+df: no file systems processed
+
+2021-08-02 22:55:56,223	There were errors:
+df: no file systems processed
+
+2021-08-02 22:56:06,984	There were errors:
+df: no file systems processed
+
+2021-08-02 22:56:17,648	There were errors:
+df: no file systems processed
+
+2021-08-02 22:56:28,432	There were errors:
+df: no file systems processed
+
+2021-08-02 22:56:39,340	There were errors:
+df: no file systems processed
+
+2021-08-02 22:56:50,370	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:01,499	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:12,462	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:23,362	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:34,489	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:45,618	There were errors:
+df: no file systems processed
+
+2021-08-02 22:57:56,642	There were errors:
+df: no file systems processed
+
+2021-08-02 22:58:07,544	There were errors:
+df: no file systems processed
+
+2021-08-02 22:58:09,878	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/phout_CFVw1P.log
+2021-08-02 22:58:09,881	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/answ_84fxbY.log
+2021-08-02 22:58:09,884	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/phantom_VVif5X.log
+2021-08-02 22:58:09,887	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/phantom_stat_ss015x.log
+2021-08-02 22:58:09,888	File not found to collect: validation_error.yaml
+2021-08-02 22:58:09,891	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/phantom_stdout_stderr_zsljrQ.log
+2021-08-02 22:58:09,897	File already exists: /var/loadtest/logs/2021-08-02_22-55-53.348832/phantom_eaAhBH.conf
+2021-08-02 23:22:54,161	There were errors:
+df: no file systems processed
+
+2021-08-02 23:22:56,173	There were errors:
+df: no file systems processed
+
+2021-08-02 23:23:07,066	There were errors:
+df: no file systems processed
+
+2021-08-02 23:23:18,020	There were errors:
+df: no file systems processed
+
+2021-08-02 23:23:29,014	There were errors:
+df: no file systems processed
+
+2021-08-02 23:23:39,967	There were errors:
+df: no file systems processed
+
+2021-08-02 23:23:51,053	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:02,044	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:13,025	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:24,103	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:35,128	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:46,238	There were errors:
+df: no file systems processed
+
+2021-08-02 23:24:57,135	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/phout_7tsgue.log
+2021-08-02 23:24:57,137	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/answ_VNkMUa.log
+2021-08-02 23:24:57,139	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/phantom_jhMQDX.conf
+2021-08-02 23:24:57,142	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/phantom_stat_1qTwXm.log
+2021-08-02 23:24:57,144	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/phantom_Y8Niga.log
+2021-08-02 23:24:57,145	File not found to collect: validation_error.yaml
+2021-08-02 23:24:57,147	File already exists: /var/loadtest/logs/2021-08-02_23-20-44.809223/phantom_stdout_stderr_Mmjktf.log
+2021-08-02 23:43:19,293	There were errors:
+df: no file systems processed
+
+2021-08-02 23:43:21,438	There were errors:
+df: no file systems processed
+
+2021-08-02 23:43:32,313	There were errors:
+df: no file systems processed
+
+2021-08-02 23:43:43,186	There were errors:
+df: no file systems processed
+
+2021-08-02 23:43:54,023	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:04,943	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:15,880	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:26,792	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:37,720	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:48,707	There were errors:
+df: no file systems processed
+
+2021-08-02 23:44:59,670	There were errors:
+df: no file systems processed
+
+2021-08-02 23:45:10,606	There were errors:
+df: no file systems processed
+
+2021-08-02 23:45:22,371	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/answ_0B16sZ.log
+2021-08-02 23:45:22,372	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/phout_2_6dP4.log
+2021-08-02 23:45:22,374	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/phantom_stdout_stderr_YZAxHH.log
+2021-08-02 23:45:22,375	File not found to collect: validation_error.yaml
+2021-08-02 23:45:22,377	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/phantom_4VoUWC.conf
+2021-08-02 23:45:22,379	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/phantom_MWZ6nB.log
+2021-08-02 23:45:22,381	File already exists: /var/loadtest/logs/2021-08-02_23-43-18.253299/phantom_stat_rrHroz.log

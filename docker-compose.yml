@@ -8,11 +8,13 @@ services:
     environment:
       APP_NAME: "egame"
       APP_DB_STORAGE_URI: "tcp://host.docker.internal:8250?database=egame&debug=false"
+      APP_CHAN_SIZE: 60000
+      APP_CHUNK_SIZE: 40000
     volumes:
       - ./app:/go/src/egame
 
   ch-server:
     image: yandex/clickhouse-server
     ports:
-      - 8250:9000
       - 8123:8123
+      - 8250:9000

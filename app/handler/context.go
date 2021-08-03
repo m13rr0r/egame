@@ -1,12 +1,18 @@
 package handler
 
 import (
-	"github.com/valyala/fastjson"
+	"sync"
+
+	"github.com/m13rr0r/egame/domain"
+	"github.com/m13rr0r/egame/infrastructure/storage"
 )
 
 type (
 	Context struct {
-		Limit     int
-		EventChan chan *fastjson.Value
+		Storage *storage.Storage
+		ChanSize int
+		ChunkSize int
+		EventPool *sync.Pool
+		EventChan chan *domain.Event
 	}
 )

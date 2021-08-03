@@ -3,26 +3,51 @@ package handler
 import (
 	"time"
 
+	"github.com/m13rr0r/egame/domain"
 	"github.com/m13rr0r/egame/infrastructure/persistence"
-	"github.com/m13rr0r/egame/infrastructure/storage"
-	"github.com/valyala/fastjson"
 )
 
-func (c *Context) TimeLimitHandler(eventChan chan *fastjson.Value, stg *storage.Storage) {
+func (c *Context) TimeLimitHandler() {
 	for {
-		if len(eventChan) > 0 {
-			lenChan := len(eventChan)
-			go persistence.PutEvents(stg, eventChan, lenChan)
-
+		if len(c.EventChan) > 0 {
+			var events []*domain.Event
+			for i := 0; i < c.ChunkSize; i++ {
+				if len(c.EventChan) == 0 {
+					break
+				}
+				event := <-c.EventChan
+				events = append(events, event)
+				c.EventPool.Put(event)
+			}
+			if len(events) > 0 {
+				go persistence.PutEvents(c.Storage, events)
+			}
 		}
 		time.Sleep(time.Second * 1)
 	}
 }
 
-func (c *Context) MaxLimitHandler(eventChan chan *fastjson.Value, stg *storage.Storage) {
+func (c *Context) MaxLimitHandler() {
 	for {
-		if len(eventChan) == c.Limit {
-			go persistence.PutEvents(stg, eventChan, c.Limit)
+		if len(c.EventChan) >= c.ChunkSize {
+			var events []*domain.Event
+			for i := 0; true ; i++ {
+				if len(c.EventChan) == 0 {
+					break
+				}
+				event := <-c.EventChan
+				events = append(events, event)
+				c.EventPool.Put(event)
+				if len(events) == c.ChunkSize {
+					go persistence.PutEvents(c.Storage, events)
+					events = []*domain.Event{}
+					break
+				}
+			}
+			if len(events) > 0 {
+				go persistence.PutEvents(c.Storage, events)
+			}
 		}
 	}
 }
+

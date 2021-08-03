@@ -1,6 +1,9 @@
 ## Развертывание и запуск проекта
 
 1. Собрать образ проекта `docker build -t egame -f docker/app/Dockerfile .`
+2. Настроить переменные окружения в 'docker-compose.yml'
+   - APP_CHAN_SIZE - размер буфера канала
+   - APP_CHUNK_SIZE - размер чанков для записи в DB
 3. Запустить локально, выполнив `docker-compose up egame`
 
 ### Настройка базы данных

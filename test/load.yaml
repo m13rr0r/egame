@@ -9,6 +9,7 @@ phantom:
   ammo_type: uripost
   load_profile:
     load_type: rps
-    schedule: line(500, 1000, 2m)
+    schedule: line(1000, 1000, 2m)
+  instances: 50
 telegraf:
   enabled: false
